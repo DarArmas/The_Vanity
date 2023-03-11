@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
 import './App.css'
 
 function App() {
@@ -7,7 +6,7 @@ function App() {
 
   return (
     <div className="App">
-       <h1>The vanity apoco si</h1>
+       <h1><img src="src\assets\logo 2.png"/></h1>
     </div>
   )
 }
