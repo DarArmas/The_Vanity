@@ -67,3 +67,19 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+
+td{
+  padding: 15px 0px 15px 0px;
+  text-align: center;
+  vertical-align: center;
+}
+
+td div{
+  align-items: center;
+  justify-content: center;
+}
+
+td div button{
+margin: 0px 15px 0px 15px;
+}

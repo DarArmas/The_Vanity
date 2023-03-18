@@ -7,6 +7,7 @@ export const useData = () => {
   
     const [products, setProducts] = useState([]);
     let data;
+    
     const productsByType = (typeProduct) => {
         switch (typeProduct) {
             case (PRODUCT_TYPES.LIPSTICK):

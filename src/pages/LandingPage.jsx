@@ -1,12 +1,10 @@
-import { useEffect } from 'react';
+import { useEffect, useContext } from 'react';
 import { ProductCard } from '../components/ProductCard';
-import { useData } from '../hooks/useData';
 import { PRODUCT_TYPES } from '../utils/constants';
-
+import { ProductsContext } from '../context/productsContext';
 
 export const LandingPage = () => {
-
-    const {products, productsByType} = useData();
+    const { products, productsByType } = useContext(ProductsContext);
 
     useEffect(() => {
         productsByType(PRODUCT_TYPES.MASCARA);
