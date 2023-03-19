@@ -44,7 +44,7 @@ export const CartModal = (props) => {
     >
       <Modal.Header closeButton>
         <Modal.Title id="contained-modal-title-vcenter">
-         Carrito de compras
+          Carrito de compras
         </Modal.Title>
       </Modal.Header>
       <Modal.Body>
@@ -62,8 +62,25 @@ export const CartModal = (props) => {
               {cart && cart.length > 0 ? (
                 cart.map((item, index) => (
                   <tr key={index}>
-                    <td>{item.name}</td>
-                    <td>${item.price}</td>
+                    <td>
+                      <div
+                        className="d-flex flex-row"
+                        style={{ width: "100%", justifyContent: "flex-start" }}
+                      >
+                        <img
+                          src={item.image_link}
+                          style={{
+                            height: "8rem",
+                            width: "12rem",
+                            overflow: "hidden",
+                          }}
+                          className="card-img-top"
+                          alt={item.name}
+                        />
+                        <div >{item.name}</div>
+                      </div>
+                    </td>
+                    <td>${item.price * item.qty}</td>
                     <td>
                       <div className="d-flex flex-row justify-content-around mx-5">
                         <Button 
