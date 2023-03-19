@@ -1,13 +1,14 @@
 import { Grid, IconButton } from "@mui/material";
-import Button from "react-bootstrap/Button";
+import Button from '@mui/material/Button'; 
 import Modal from "react-bootstrap/Modal";
 import { ProductsContext } from "../context/productsContext";
 import { useContext } from "react";
 import DeleteIcon from "@mui/icons-material/Delete";
-import { Col, Row } from "react-bootstrap";
+
 import { useEffect, useState } from "react";
 import Swal from "sweetalert2";
 import withReactContent from "sweetalert2-react-content";
+import ReplyAllIcon from '@mui/icons-material/ReplyAll';
 
 export const CartModal = (props) => {
   const { cart, removeFromCart, modifyQty } = useContext(ProductsContext);
@@ -16,8 +17,6 @@ export const CartModal = (props) => {
 
   useEffect(() => {
     let pricesArray = cart.map((product) => product.price * product.qty);
-    console.log("cargue soy el modal");
-    console.log(pricesArray);
     const initialValue = 0;
     const totalSum = pricesArray.reduce(
       (accumulator, currentValue) => accumulator + parseInt(currentValue),
@@ -66,18 +65,26 @@ export const CartModal = (props) => {
                     <td>{item.name}</td>
                     <td>${item.price}</td>
                     <td>
-                      <div className="d-flex flex-row">
-                        <Button
+                      <div className="d-flex flex-row justify-content-between mx-5">
+                        <Button 
+                          variant="contained"
                           data-type="decrease"
                           onClick={(e) => modifyQty(item.id, e)}
                           disabled={item.qty <= 1}
-                        >
+                          color='secondary'
+                          size="small"
+                          sx={{width:'.5rem'}}
+                          >
                           -
                         </Button>
                         {item.qty}
                         <Button
+                          variant="contained"
                           data-type="increase"
                           onClick={(e) => modifyQty(item.id, e)}
+                          color='secondary'
+                          size="small"
+                          sx={{width:'.5rem'}}
                         >
                           +
                         </Button>
@@ -99,13 +106,13 @@ export const CartModal = (props) => {
               )}
             </tbody>
           </table>
-          <Button style={{ width: "85%", margin: "0px auto" }}>
+          <Button style={{ width: "85%", margin: "0px auto", background:'#30246e', fontWeight:'bold'}} variant="contained">
             Total ${totalPrice}
           </Button>
         </div>
       </Modal.Body>
       <Modal.Footer>
-        <Button onClick={props.onHide}>Seguir Comprando</Button>
+        <Button onClick={props.onHide}variant="contained" color='secondary'><ReplyAllIcon/></Button>
       </Modal.Footer>
     </Modal>
   );
