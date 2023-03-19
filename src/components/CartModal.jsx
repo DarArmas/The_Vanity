@@ -16,8 +16,6 @@ export const CartModal = (props) => {
 
   useEffect(() => {
     let pricesArray = cart.map((product) => product.price * product.qty);
-    console.log("cargue soy el modal");
-    console.log(pricesArray);
     const initialValue = 0;
     const totalSum = pricesArray.reduce(
       (accumulator, currentValue) => accumulator + parseInt(currentValue),
@@ -64,7 +62,7 @@ export const CartModal = (props) => {
                 cart.map((item, index) => (
                   <tr key={index}>
                     <td>{item.name}</td>
-                    <td>${item.price}</td>
+                    <td>${item.price * item.qty}</td>
                     <td>
                       <div className="d-flex flex-row">
                         <Button
