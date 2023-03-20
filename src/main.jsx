@@ -7,7 +7,8 @@ import { ProductsContextProvider } from "./context/productsContext";
 ReactDOM.createRoot(document.getElementById("root")).render(
   <>
     <ProductsContextProvider>
-      <App />
+      <App/>
     </ProductsContextProvider>
   </>
 );
+
