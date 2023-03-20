@@ -34,64 +34,63 @@ function Map() {
 
 export const Location = () => {
   return (
-    <div className="container" style={{ textAlign: "left" }}>
-      <div className="row">
-        <div className="col-md-8 ">
-          <h2 style={{ color: "#473889" }}>Encuentranos</h2>
+    <div className="row">
+      <div className="col-md-8 ">
+        <h2 style={{ color: "#473889" }}>Encuentranos</h2>
 
-          <Map />
-        </div>
+        <Map />
+      </div>
 
-        <div class="col-md-4">
-          <div
-            class="card text-white my-5 rounded-4"
-            style={{
-              maxWidth: "100%",
-              color: "white",
-              backgroundColor: "#776FC3",
-            }}
-          >
-            <div class="card-header">
-              <h4>Conoce nuestra sucursal</h4>
+      <div class="col-md-4">
+        <div
+          class="card text-white my-5 rounded-4"
+          style={{
+            height: '88%',
+            maxWidth: "100%",
+            color: "white",
+            backgroundColor: "#776FC3",
+          }}
+        >
+          <div className="card-header">
+            <h4>Conoce nuestra sucursal</h4>
+          </div>
+
+          <div className="card-body" style={{height: '100%', backgroundColor: "#776FC3"}}>
+            <div className="row" sty>
+              <div className="col-md-2">
+                <LocationOnOutlined />
+              </div>
+
+              <div className="col-md-10">
+                <p class="card-text" style={{ textAlign: "left" }}>
+                  Direccion: Carretera Torreón Km 7.5, Ejido las cuevas, 35185
+                  Cd Lerdo, Dgo.
+                </p>
+              </div>
             </div>
 
-            <div class="card-body">
-              <div className="row">
-                <div className="col-md-2">
-                  <LocationOnOutlined />
-                </div>
-
-                <div className="col-md-10">
-                  <p class="card-text" style={{ textAlign: "left" }}>
-                    Direccion: Carretera Torreón Km 7.5, Ejido las cuevas, 35185
-                    Cd Lerdo, Dgo.
-                  </p>
-                </div>
+            <div className="row mt-3">
+              <div className="col-md-2">
+                <AccessTimeOutlined />
               </div>
 
-              <div className="row mt-3">
-                <div className="col-md-2">
-                  <AccessTimeOutlined />
-                </div>
+              <div className="col-md-10">
+                <p class="card-text" style={{ textAlign: "left" }}>
+                  Horario: Lunes a Sabado 7:00 - 19:00.
+                </p>
+              </div>
+            </div>
 
-                <div className="col-md-10">
-                  <p class="card-text" style={{ textAlign: "left" }}>
-                    Horario: Lunes a Sabado 7:00 - 19:00.
-                  </p>
-                </div>
+            <div className="row mt-3">
+              <div className="col-md-2">
+                <LocalPhoneOutlined />
               </div>
 
-              <div className="row mt-3">
-                <div className="col-md-2">
-                  <LocalPhoneOutlined />
-                </div>
-
-                <div className="col-md-10">
-                  <p class="card-text" style={{ textAlign: "left" }}>
-                    Telefono: <br />
-                    871 228 0212
-                  </p>
-                </div>
+              <div className="col-md-10">
+                <p class="card-text" style={{ textAlign: "left" }}>
+                  Telefono: <br />
+                  871 228 0212
+                </p>
               </div>
             </div>
           </div>
