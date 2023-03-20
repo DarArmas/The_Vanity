@@ -40,6 +40,8 @@ export const useData = () => {
   
     return {
         products,
-        productsByType
+        setProducts,
+        productsByType,
+        initialProducts: productsData
     }
 }
