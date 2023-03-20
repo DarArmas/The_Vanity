@@ -10,8 +10,6 @@ import { Map } from "@mui/icons-material";
 
 import { Badge, IconButton } from "@mui/material";
 
-import { Link } from "react-router-dom";
-
 export const Footer = () => {
   return (
     <div className="container my-5">
