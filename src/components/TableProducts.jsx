@@ -16,7 +16,7 @@ export const TableProducts = () => {
     const [value, setValue] = useState(0);
     const [searchValue, setSearchValue] = useState(PRODUCT_TYPES.LIPSTICK);
     const [currentPage, setCurrentPage] = useState(1);
-    const [productsPerPage, setProductPerPage] = useState(5)
+    const [productsPerPage, setProductPerPage] = useState(6)
 
     const handleChange = (event, newValue) => {
         setValue(newValue);
@@ -52,7 +52,7 @@ export const TableProducts = () => {
                     {
                         (currentProducts && currentProducts.length>  0) 
                         ?
-                        <div className="row row-cols-1 row-cols-md-3 g-4" style={{minWidth: "72rem", minHeight: "500px"}}>
+                        <div className="row row-cols-md-3 g-4" style={{minWidth: "72rem", minHeight: "500px"}}>
                            { currentProducts.map(product =>(
                                 <ProductCard imageUrl={product.image_link}
                                     key={product.id}
