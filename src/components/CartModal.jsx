@@ -82,7 +82,7 @@ export const CartModal = (props) => {
                     </td>
                     <td>${item.price * item.qty}</td>
                     <td>
-                      <div className="d-flex flex-row justify-content-around mx-5">
+                      <div className="d-flex flex-row justify-content-between mx-3">
                         <Button 
                           variant="contained"
                           data-type="decrease"
