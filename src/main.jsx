@@ -7,12 +7,12 @@ import "./index.css";
 import { LandingPage } from "./pages/LandingPage";
 import { ProductsContextProvider } from "./context/productsContext";
 
+
 ReactDOM.createRoot(document.getElementById("root")).render(
   <>
     <ProductsContextProvider>
       <NavBar />
       <App />
-      <LandingPage />
     </ProductsContextProvider>
   </>
 );
