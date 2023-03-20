@@ -49,25 +49,27 @@ export const TableProducts = () => {
       {Object.keys(PRODUCT_TYPES).map( (product, index) =>(
         <TabPanel value={value} index={index} key={index} >
             <div className="container text-center">
-                <div className="row row-cols-1 row-cols-md-3 g-4">
                     {
                         (currentProducts && currentProducts.length>  0) 
                         ?
-                        currentProducts.map(product =>(
-                            <ProductCard imageUrl={product.image_link}
-                                key={product.id}
-                                title={product.name}
-                                id={product.id}
-                                brand={product.brand}   
-                                price={`${product.price_sign}${product.price}`}
-                            /> 
-                        ))
+                        <div className="row row-cols-1 row-cols-md-3 g-4" style={{minWidth: "72rem", minHeight: "500px"}}>
+                           { currentProducts.map(product =>(
+                                <ProductCard imageUrl={product.image_link}
+                                    key={product.id}
+                                    title={product.name}
+                                    id={product.id}
+                                    brand={product.brand}   
+                                    price={`${product.price_sign}${product.price}`}
+                                /> 
+                            ))}
+                        </div>
                         : 
-                        <div className="spinner-border text-warning" role="status">
-                            <span className="visually-hidden">Loading...</span>
+                        <div className='w-10 d-flex justify-content-center align-items-center ' style={{minWidth: "72rem", minHeight: "500px"}}>
+                            <div className="spinner-border " role="status" style={{width: "10rem", height: "10rem", color: "purple"}}>
+                            </div>
                         </div>
                     }
-                </div>
+               
                 <div className="pagination">
                     <PaginationProducts totalProducts={products.length} productsPerPage={productsPerPage} setCurrentPage={setCurrentPage} currentPage={currentPage}/>
                 </div>

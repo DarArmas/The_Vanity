@@ -12,7 +12,8 @@ export const ProductsContextProvider = ({ children }) => {
     if(e.target.value.length >= 3){
       setSearch(e.target.value);
       let matchingProducts = products.filter((product) => {
-        return product.name.toLowerCase().includes(search.trim().toLowerCase());
+        return (product.name.toLowerCase().includes(search.trim().toLowerCase())
+            || product.brand.toLowerCase().includes(search.trim().toLowerCase()))
       });
       setProducts(matchingProducts);
     }else{
