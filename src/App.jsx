@@ -7,11 +7,13 @@ function App() {
 
   return (
     <>
+    <div>
       <NavBar/>
       <div className="App">
         <h1><img src="assets/img/logo_2.png"/></h1>
       </div>
       <LandingPage/>
+    </div>
     </>
 
   )

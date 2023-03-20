@@ -18,12 +18,13 @@ export const CartModal = (props) => {
 
   useEffect(() => {
     let pricesArray = cart.map((product) => product.price * product.qty);
+    console.log(pricesArray);
     const initialValue = 0;
     const totalSum = pricesArray.reduce(
-      (accumulator, currentValue) => accumulator + parseInt(currentValue),
+      (accumulator, currentValue) => accumulator + currentValue,
       initialValue
     );
-    setTotalPrice(totalSum);
+    setTotalPrice(totalSum.toFixed(2));
   }, [cart]);
 
   const dispatchClick = (id, title) => {

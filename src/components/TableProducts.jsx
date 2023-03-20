@@ -36,7 +36,7 @@ export const TableProducts = () => {
     const currentProducts = (products && products.length>0) ? products.slice(firstProductIndex, lastProductIndex) : products;
 
   return (
-    <Box sx={{ width: '100%', justifyContent:'center' }}>
+    <Box sx={{ width: '100%', justifyContent:'center'}}>
       <Box sx={{ display:'flex', borderBottom: 1, borderColor: 'divider', justifyContent:'center' }}>
         <Tabs value={value} onChange={handleChange} aria-label="products tab" textColor='secondary' indicatorColor="secondary" >
         {

@@ -4,8 +4,22 @@ import { useData } from "../hooks/useData";
 export const ProductsContext = createContext();
 
 export const ProductsContextProvider = ({ children }) => {
-  const {products, productsByType} = useData();
+  const {products, productsByType, setProducts, initialProducts} = useData();
   const [cart, setCart] = useState([]);
+  const [search, setSearch] = useState("");
+
+  const searchProducts = (e) => {
+    if(e.target.value.length >= 3){
+      setSearch(e.target.value);
+      let matchingProducts = products.filter((product) => {
+        return product.name.toLowerCase().includes(search.trim().toLowerCase());
+      });
+      setProducts(matchingProducts);
+    }else{
+      setProducts(initialProducts);
+    }
+ 
+  }
 
   const addToCart = (productId) => {
     let product = products.find(product => product.id === productId)
@@ -58,7 +72,8 @@ export const ProductsContextProvider = ({ children }) => {
         cart,
         addToCart,
         removeFromCart,
-        modifyQty
+        modifyQty,
+        searchProducts
         }}>
         {children}
     </ProductsContext.Provider>
