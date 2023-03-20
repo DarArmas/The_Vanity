@@ -2,6 +2,15 @@ import React, { useState, useContext, useEffect } from 'react'
 import { ProductsContext } from '../context/productsContext'
 import Swal from 'sweetalert2'
 import withReactContent from 'sweetalert2-react-content'
+import { DEFAULT_IMAGE } from '../utils/constants'
+import Card from '@mui/material/Card';
+import CardActions from '@mui/material/CardActions';
+import CardContent from '@mui/material/CardContent';
+import CardMedia from '@mui/material/CardMedia';
+import Typography from '@mui/material/Typography';
+import AddShoppingCartTwoToneIcon from '@mui/icons-material/AddShoppingCartTwoTone';
+import IconButton from '@mui/material/IconButton';
+import { capitalizeBrand } from '../utils/utils'
 
 export const ProductCard = ({imageUrl, title, id, brand, price}) => {
   const { cart, addToCart } = useContext(ProductsContext);
@@ -26,36 +35,49 @@ export const ProductCard = ({imageUrl, title, id, brand, price}) => {
   const [showImage, setShowImage] = useState(true)
 
   const hideImg = () => {
+    console.log("Hiding image   ")
    setShowImage(false)
   }
 
-  const inCart = () => {
-    let product = products.find(product => product.id === productId)
-
-
-  }
-
   return (
-    <div className="col">
-      <div className="card h-100" >
-        {
+    <div className="col">  
+        <Card sx={{ maxWidth: 400 }}>
+          {
             showImage 
               ? 
-                <img src= {imageUrl} className="card-img-top" alt={title} onError={hideImg} />
+                <CardMedia
+                  sx={{ height: 390 }}
+                  image={imageUrl}
+                  title={title}
+                  onError={ () => hideImg() }
+                />
               : 
-                <div className="d-flex justify-content-center">
-                  <div className="spinner-grow text-info" role="status">
-                      <span className="visually-hidden">Loading...</span>
-                  </div>
-                </div>
-        }
-        <div className="card-body">
-            <h5 className="card-title">{title}</h5>
-            <p className="card-text">{brand}</p>
-            <p className="card-text mt-2">{price}</p>
-            <button className="btn btn-primary" onClick={() => dispatchClick(id,title)} disabled={isDisabled}>Add to cart</button>
-        </div>
-      </div>
+                <CardMedia
+                  sx={{ height: 390 }}
+                  image={DEFAULT_IMAGE}
+                  title={title}
+                />
+          }
+          <CardContent sx={{background:'#eee7f6'}}>
+            <Typography gutterBottom variant="h4" component="div" color="#473889">
+              {capitalizeBrand(brand)}
+            </Typography>
+            <Typography variant="h6" color="#473889">
+              {title}
+            </Typography>
+            <Typography variant="h6" color="text.secondary">
+              {price}
+            </Typography>
+          </CardContent>
+          <CardActions sx={{background:'#eee7f6'}}>
+          <IconButton onClick={() => dispatchClick(id,title)} disabled={isDisabled}>
+              <AddShoppingCartTwoToneIcon fontSize={'large'}/>
+            </IconButton>
+            <Typography  color="#473889">
+              Comprar
+            </Typography>
+          </CardActions>
+        </Card>
     </div>
   )
 }

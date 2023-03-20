@@ -261,598 +261,596 @@ export const productsData = [
 			}
 		]
 	},
-	{
-		"id": 1044,
-		"brand": "boosh",
-		"name": "Lipstick",
-		"price": "26.0",
-		"price_sign": "$",
-		"currency": "CAD",
-		"image_link": "https://cdn.shopify.com/s/files/1/1016/3243/products/LIPBALM_LID_grande.jpg?v=1496848378",
-		"product_link": "https://www.boosh.ca/collections/all",
-		"website_link": "https://www.boosh.ca/",
-		"description": "All of our products are free from lead and heavy metals, parabens, phthalates, artificial colourants, and synthetic fragrances.  Boosh lipstick glides on smoothly for clean & protective SPF coverage. They are filled with hydrating oils and butters to preserve and enhance your lips natural surface. Organic sweet orange oil gives a light and cheerful scent.",
-		"rating": null,
-		"category": "lipstick",
-		"product_type": "lipstick",
-		"tag_list": [
-			"Chemical Free",
-			"Organic"
-		],
-		"created_at": "2018-07-08T17:32:28.088Z",
-		"updated_at": "2018-09-02T22:52:06.669Z",
-		"product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1044.json",
-		"api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/044/original/data?1531071233",
-		"product_colors": [
-			{
-				"hex_value": "#CB4975",
-				"colour_name": "Babs"
-			},
-			{
-				"hex_value": "#B6636F",
-				"colour_name": "Bobbie"
-			},
-			{
-				"hex_value": "#B37072",
-				"colour_name": "Rosie"
-			},
-			{
-				"hex_value": "#C6727C",
-				"colour_name": "Ellie"
-			},
-			{
-				"hex_value": "#AF2257",
-				"colour_name": "Dahlia"
-			},
-			{
-				"hex_value": "#573F53",
-				"colour_name": "Kat"
-			},
-			{
-				"hex_value": "#875672",
-				"colour_name": "Brie"
-			},
-			{
-				"hex_value": "#BC88A5",
-				"colour_name": "Emmy"
-			},
-			{
-				"hex_value": "#BB8A88",
-				"colour_name": "Dusty rose"
-			},
-			{
-				"hex_value": "#8D5C58",
-				"colour_name": "Kylie"
-			},
-			{
-				"hex_value": "#C86775",
-				"colour_name": "Leah"
-			},
-			{
-				"hex_value": "#F8D7D6",
-				"colour_name": "Lip Plumping Balm"
-			},
-			{
-				"hex_value": "#8F6065",
-				"colour_name": "Luna"
-			},
-			{
-				"hex_value": "#C79289",
-				"colour_name": "Nova"
-			},
-			{
-				"hex_value": "#9D3F47",
-				"colour_name": "Ruby"
-			}
-		]
-	},
-	{
-		"id": 1037,
-		"brand": "sally b's skin yummies",
-		"name": "B Glossy Lip Gloss",
-		"price": "3.0",
-		"price_sign": "$",
-		"currency": "USD",
-		"image_link": "https://www.purpicks.com/wp-content/uploads/2018/06/Sally-B_s-Skin-Yummies-B-Glossy-Lip-Gloss.jpg",
-		"product_link": "https://www.purpicks.com/product/sally-bs-skin-yummies-b-glossy-lip-gloss/",
-		"website_link": "https://purpicks.com/",
-		"description": "Intensify your natural lip color with Sally B's B Glossy Lip Gloss, an organic lip gloss that adds a silky smooth hint of color and shimmer to lips. Formulated with 98% certified organic, moisture-rich ingredients our B Glossy Lip Gloss works to enrich lip health for lips that feel good and look even better.",
-		"rating": null,
-		"category": "lip_gloss",
-		"product_type": "lipstick",
-		"tag_list": [
-			"EWG Verified",
-			"purpicks"
-		],
-		"created_at": "2018-06-30T19:19:32.053Z",
-		"updated_at": "2018-09-02T22:52:06.687Z",
-		"product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1037.json",
-		"api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/037/original/open-uri20180630-4-1fa1p2f?1530390384",
-		"product_colors": [
-			{
-				"hex_value": "#BF5D7F",
-				"colour_name": "Every Blonde's Pink"
-			},
-			{
-				"hex_value": "#D84945",
-				"colour_name": "Primrose"
-			},
-			{
-				"hex_value": "#E1A2A0",
-				"colour_name": "Soft Kiss"
-			},
-			{
-				"hex_value": "#B82F42",
-				"colour_name": "Ruby's Red"
-			},
-			{
-				"hex_value": "#BE5F37",
-				"colour_name": "Copper Penny"
-			},
-			{
-				"hex_value": "#8F4636",
-				"colour_name": "Sweet Plum"
-			}
-		]
-	},
-	{
-		"id": 1030,
-		"brand": "penny lane organics",
-		"name": "Lip Gloss",
-		"price": "3.0",
-		"price_sign": "$",
-		"currency": "USD",
-		"image_link": "https://www.purpicks.com/wp-content/uploads/csm/sunset-bronze-pennylaneorganics1.jpg",
-		"product_link": "https://www.purpicks.com/product/penny-lane-organics-lip-gloss/",
-		"website_link": "https://purpicks.com/",
-		"description": "For fuller healthier lips! Long lasting colour! This colour is a good choice for any skin tone. It can be made lighter by wiping some off after application.Please note that our Vitamin E is extracted from non-GMO soy bean oil and therefore is gluten-free.",
-		"rating": null,
-		"category": "lip_gloss",
-		"product_type": "lipstick",
-		"tag_list": [
-			"purpicks",
-			"CertClean",
-			"Vegan",
-			"Chemical Free",
-			"Gluten Free"
-		],
-		"created_at": "2018-06-30T19:19:31.534Z",
-		"updated_at": "2018-09-02T22:52:06.618Z",
-		"product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1030.json",
-		"api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/030/original/open-uri20180630-4-ucbwbt?1530390380",
-		"product_colors": [
-			{
-				"hex_value": "#2F1513",
-				"colour_name": "Black Cherry"
-			},
-			{
-				"hex_value": "#4F1314",
-				"colour_name": "Fiery Red"
-			},
-			{
-				"hex_value": "#6F2633",
-				"colour_name": "Pearl Pink"
-			},
-			{
-				"hex_value": "#B05665",
-				"colour_name": "Pink Shimmer"
-			},
-			{
-				"hex_value": "#783F30",
-				"colour_name": "Sunset Bronze"
-			},
-			{
-				"hex_value": "#511617",
-				"colour_name": "Sweet Cherry"
-			},
-			{
-				"hex_value": "#8E2432",
-				"colour_name": "Tropical Fuschia"
-			}
-		]
-	},
-	{
-		"id": 1029,
-		"brand": "nudus",
-		"name": "Amalia",
-		"price": "3.0",
-		"price_sign": "$",
-		"currency": "USD",
-		"image_link": "https://www.purpicks.com/wp-content/uploads/2018/06/Nudus-Amalia.jpg",
-		"product_link": "https://www.purpicks.com/product/nudus-amalia/",
-		"website_link": "https://purpicks.com/",
-		"description": "named after my beautiful mum, delicately pink that displays sophistication. a perfect sheer wash of gorgeous colour that brings a new texture to the lip euphoria range. <strong>lipstick benefits</strong> a unique handcrafted lipstick blended with certified organic ingredients. beautifully pigmented with ancient ayurvedic bioactive colour extracts, leaving your lips soft and deliciously hydrated.<strong>key benefits</strong><ul><li>vitamins, A, B, C, D, E and K</li><li>antioxidants, including pomegranate, raspberry and kiwi cold pressed oils</li><li>27 active natural ingredients, helping against environmental stress</li><li>colours made from flowers, fruits, herbs and minerals</li><li>free from parabens, petro-chemicals, lanolin, hydrogenated oils,fd&amp;c and lake dyes, nano-particles, gmo, pesticides and fungicides</li><li>not tested on animals</li><li>gluten free</li></ul>",
-		"rating": null,
-		"category": "lipstick",
-		"product_type": "lipstick",
-		"tag_list": [
-			"purpicks"
-		],
-		"created_at": "2018-06-30T19:19:31.441Z",
-		"updated_at": "2018-09-02T22:52:06.839Z",
-		"product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1029.json",
-		"api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/029/original/open-uri20180630-4-1rfkucb?1530390379",
-		"product_colors": [
-			{
-				"hex_value": "#7C524F",
-				"colour_name": "27 Kisses"
-			},
-			{
-				"hex_value": "#884955",
-				"colour_name": "Amalia"
-			},
-			{
-				"hex_value": "#9F3D2A",
-				"colour_name": "Bitter Sweet"
-			},
-			{
-				"hex_value": "#542A26",
-				"colour_name": "Dirty Diana"
-			},
-			{
-				"hex_value": "#793D48",
-				"colour_name": "Dreamtime"
-			},
-			{
-				"hex_value": "#BB6E60",
-				"colour_name": "Fairy Tale"
-			},
-			{
-				"hex_value": "#BA8285",
-				"colour_name": "Halo"
-			},
-			{
-				"hex_value": "#71474E",
-				"colour_name": "Just Like Jade"
-			},
-			{
-				"hex_value": "#AF8475",
-				"colour_name": "Naked"
-			},
-			{
-				"hex_value": "#D65572",
-				"colour_name": "Precious"
-			},
-			{
-				"hex_value": "#8F1A23",
-				"colour_name": "Revenge"
-			},
-			{
-				"hex_value": "#8B383D",
-				"colour_name": "Ruby Rose"
-			},
-			{
-				"hex_value": "#C83752",
-				"colour_name": "Survivor"
-			},
-			{
-				"hex_value": "#784F5F",
-				"colour_name": "Viva"
-			},
-			{
-				"hex_value": "#672F57",
-				"colour_name": "Zo Zo"
-			}
-		]
-	},
-	{
-		"id": 1023,
-		"brand": "marienatie",
-		"name": "Lipstick",
-		"price": "3.0",
-		"price_sign": "$",
-		"currency": "USD",
-		"image_link": "https://www.purpicks.com/wp-content/uploads/csm/Evelyn_Pic1.jpg",
-		"product_link": "https://www.purpicks.com/product/marie-natie-lipstick/",
-		"website_link": "https://purpicks.com/",
-		"description": "A pure and creamy lipstick by MarieNatie formulated with organic jojoba, avocado, and coconut oil which are rich in anti-oxidants and have moisturizing benefits. Enriched with naturally derived organic mango and cocoa butters that will soothe, hydrate and regenerate dry lips.",
-		"rating": null,
-		"category": "lipstick",
-		"product_type": "lipstick",
-		"tag_list": [
-			"purpicks",
-			"CertClean",
-			"Vegan",
-			"Gluten Free"
-		],
-		"created_at": "2018-06-30T19:19:31.034Z",
-		"updated_at": "2018-09-02T22:52:06.510Z",
-		"product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1023.json",
-		"api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/023/original/open-uri20180630-4-149dwc3?1530390375",
-		"product_colors": [
-			{
-				"hex_value": "#9D5E4F",
-				"colour_name": "Evelyn"
-			},
-			{
-				"hex_value": "#B03B3E",
-				"colour_name": "Rosie"
-			},
-			{
-				"hex_value": "#9A1C24",
-				"colour_name": "Giselle"
-			},
-			{
-				"hex_value": "#B4556E",
-				"colour_name": "Ava"
-			}
-		]
-	},
-	{
-		"id": 1022,
-		"brand": "marienatie",
-		"name": "Lip Gloss",
-		"price": "3.0",
-		"price_sign": "$",
-		"currency": "USD",
-		"image_link": "https://www.purpicks.com/wp-content/uploads/csm/Envy1.jpg",
-		"product_link": "https://www.purpicks.com/product/lip-gloss/",
-		"website_link": "https://purpicks.com/",
-		"description": "MarieNatie offers a gluten free and vegan lip gloss providing rich colours and shine without the stickiness. The natural oils will offer moisturizing properties and lasting hydration for your lips. Contains grape seed oil to reduce aging and wrinkles and sunflower oil has the ability to heal skin. Vitamin E is a great antioxidant that will protect and repair skin.",
-		"rating": null,
-		"category": "lip_gloss",
-		"product_type": "lipstick",
-		"tag_list": [
-			"purpicks",
-			"CertClean"
-		],
-		"created_at": "2018-06-30T19:19:30.964Z",
-		"updated_at": "2018-09-02T22:52:06.502Z",
-		"product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1022.json",
-		"api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/022/original/data?1530390374",
-		"product_colors": [
-			{
-				"hex_value": "#D5A291",
-				"colour_name": "Posh"
-			},
-			{
-				"hex_value": "#D5A3A1",
-				"colour_name": "Flair"
-			},
-			{
-				"hex_value": "#E89EA2",
-				"colour_name": "Tickled"
-			},
-			{
-				"hex_value": "#8B5B5F",
-				"colour_name": "Envy"
-			},
-			{
-				"hex_value": "#99696C",
-				"colour_name": "Lush"
-			},
-			{
-				"hex_value": "#F1B8BE",
-				"colour_name": "Pure"
-			},
-			{
-				"hex_value": "#D37B92",
-				"colour_name": "Babe"
-			},
-			{
-				"hex_value": "#CA5774",
-				"colour_name": "Wild"
-			}
-		]
-	},
-	{
-		"id": 1010,
-		"brand": "coastal classic creation",
-		"name": "Conch Lipstick",
-		"price": "3.0",
-		"price_sign": "$",
-		"currency": "USD",
-		"image_link": "https://www.purpicks.com/wp-content/uploads/2018/06/coastal-classic-creations-conch-lipstick.png",
-		"product_link": "https://www.purpicks.com/product/coastal-classic-creations-conch-lipstick/",
-		"website_link": "https://purpicks.com/",
-		"description": "Coastal Classic Creations Conch Lipstick is a flattering, stylish, rich winterberry color. This lipstick is paraben-free and vegan and contains sunflower oil which is rich in Vitamin E and which may protect against damage from the sun. To boost the product's effectiveness, we add sesame seed oil which contains Vitamins E, D, and B complex to provide moisture and neutralize free radicals. Companions well with Boysenberry Lip Crayon.",
-		"rating": null,
-		"category": "lipstick",
-		"product_type": "lipstick",
-		"tag_list": [
-			"purpicks",
-			"EWG Verified",
-			"Hypoallergenic",
-			"No Talc"
-		],
-		"created_at": "2018-06-30T19:19:30.184Z",
-		"updated_at": "2018-09-02T22:52:06.571Z",
-		"product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1010.json",
-		"api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/010/original/open-uri20180630-4-dywvay?1530390364",
-		"product_colors": [
-			{
-				"hex_value": "#822A42",
-				"colour_name": "Raspberry"
-			},
-			{
-				"hex_value": "#8D394F",
-				"colour_name": "Conch"
-			},
-			{
-				"hex_value": "#9F4353",
-				"colour_name": "Crushed Rose"
-			},
-			{
-				"hex_value": "#A15F55",
-				"colour_name": "Tender Toffee"
-			},
-			{
-				"hex_value": "#F09178",
-				"colour_name": "Deja Vu"
-			},
-			{
-				"hex_value": "#B83037",
-				"colour_name": "Sun Dial"
-			},
-			{
-				"hex_value": "#AD4C46",
-				"colour_name": "Terra Gold"
-			},
-			{
-				"hex_value": "#A96B67",
-				"colour_name": "Cowry"
-			},
-			{
-				"hex_value": "#B73849",
-				"colour_name": "Tender"
-			},
-			{
-				"hex_value": "#D06C89",
-				"colour_name": "Nautilus"
-			},
-			{
-				"hex_value": "#C49082",
-				"colour_name": "Extremely Nude"
-			},
-			{
-				"hex_value": "#B78592",
-				"colour_name": "Ginger Snap"
-			},
-			{
-				"hex_value": "#DD786A",
-				"colour_name": "Coral Shell"
-			},
-			{
-				"hex_value": "#E5A4BF",
-				"colour_name": "Twilight"
-			},
-			{
-				"hex_value": "#954D44",
-				"colour_name": "Sand Dollar"
-			}
-		]
-	},
-	{
-		"id": 1009,
-		"brand": "c'est moi",
-		"name": "Reflect Lip Gloss",
-		"price": "3.0",
-		"price_sign": "$",
-		"currency": "USD",
-		"image_link": "https://www.purpicks.com/wp-content/uploads/2018/04/cest-moi-reflect-lip-gloss-1.png",
-		"product_link": "https://www.purpicks.com/product/reflect-lip-gloss/",
-		"website_link": "https://purpicks.com/",
-		"description": "These essential lip gloss shades are enriched with a blend of natural and organic oils to deliver the perfect amount of sheer color and shine to lips. Enriched with a blend of natural and organic oils, this essential gloss delivers a wash of sheer color and promises shine—not stickiness. Made for Young Delicate Skin Types NO – Talc, Fragrance, Parabens, Phthalates, Sulfates, Mineral oil or Propylene Glycol Dermatologist Tested Clinically Tested on Sensitive Skin, Hypoallergenic, Made with Natural & Organic Ingredients",
-		"rating": null,
-		"category": "lip_gloss",
-		"product_type": "lipstick",
-		"tag_list": [
-			"purpicks",
-			"EWG Verified",
-			"Hypoallergenic",
-			"No Talc"
-		],
-		"created_at": "2018-06-30T19:19:30.116Z",
-		"updated_at": "2018-09-02T22:52:06.562Z",
-		"product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1009.json",
-		"api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/009/original/open-uri20180630-4-xznfso?1530390363",
-		"product_colors": [
-			{
-				"hex_value": "#DF585A",
-				"colour_name": "Rise"
-			},
-			{
-				"hex_value": "#E4CFCE",
-				"colour_name": "Opulence"
-			},
-			{
-				"hex_value": "#D6474B",
-				"colour_name": "Bliss"
-			}
-		]
-	},
-	{
-		"id": 999,
-		"brand": "glossier",
-		"name": "Generation G",
-		"price": "23.0",
-		"price_sign": "$",
-		"currency": "USD",
-		"image_link": "https://static-assets.glossier.com/production/spree/images/attachments/000/001/239/portrait_normal/GenG2.jpg?1487709747",
-		"product_link": "https://www.glossier.com/products/generation-g",
-		"website_link": "https://www.glossier.com",
-		"description": "Generation G is a new kind of lip color that gives the look and finish of just-blotted lipstick, without the blot. We’ve created a short list of the six most important shades, with dialed-down pigment loads for a casual look: Zip, Leo, Crush, and Jam, along with the super subtle Cake and Like, which give some oomph to lighter lip tones. They’re lipsticks that adapt to you, not the other way around, so they'll appear a bit different on everyone as your natural lip color shows through. The effect? Diffused, matte goodness—just swipe it on.",
-		"rating": null,
-		"category": null,
-		"product_type": "lipstick",
-		"tag_list": [],
-		"created_at": "2017-12-27T02:21:55.363Z",
-		"updated_at": "2017-12-27T02:55:18.719Z",
-		"product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/999.json",
-		"api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/999/original/open-uri20171227-4-2ul0s6?1514341420",
-		"product_colors": [
-			{
-				"hex_value": "#F4E1D7",
-				"colour_name": "Cake"
-			},
-			{
-				"hex_value": "#E5C2CF",
-				"colour_name": "Like"
-			},
-			{
-				"hex_value": "#CB6382",
-				"colour_name": "Crush"
-			},
-			{
-				"hex_value": "#974A72",
-				"colour_name": "Jam"
-			},
-			{
-				"hex_value": "#A46C58",
-				"colour_name": "Leo"
-			},
-			{
-				"hex_value": "#DE6262",
-				"colour_name": "Zip"
-			}
-		]
-	},
-	{
-		"id": 888,
-		"brand": "nyx",
-		"name": "Luv Out Loud Liquid Lipstick",
-		"price": "7.0",
-		"price_sign": "$",
-		"currency": "USD",
-		"image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw063995a2/ProductImages/2017/Lips/Luv_Out_Loud_Liquid_Lipstick/luvoutloudliquidlipstick_main.jpg?sw=390&sh=390&sm=fit",
-		"product_link": "https://www.nyxcosmetics.com/luv-out-loud-liquid-lipstick/NYX_512.html?cgid=lipstick",
-		"website_link": "https://www.nyxcosmetics.com",
-		"description": "What qualities make a person beautiful? Passion, confidence and fearlessness, to name a few. Available in six velvety-matte shades, our new Luv Out Loud Liquid Lipsticks capture the attributes we at NYX Professional Makeup find truly beautiful. Gift one, two-or all six lippies to a friend who rocks these amazing qualities and inspires you to live (and luv!) out loud.",
-		"rating": null,
-		"category": "lipstick",
-		"product_type": "lipstick",
-		"tag_list": [],
-		"created_at": "2017-12-24T02:27:19.139Z",
-		"updated_at": "2017-12-24T02:27:19.592Z",
-		"product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/888.json",
-		"api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/888/original/open-uri20171224-4-zjnp6o?1514082438",
-		"product_colors": [
-			{
-				"hex_value": "#8C6989",
-				"colour_name": "Fearless"
-			},
-			{
-				"hex_value": "#773950",
-				"colour_name": "Passionate"
-			},
-			{
-				"hex_value": "#963673",
-				"colour_name": "Extraordinary"
-			},
-			{
-				"hex_value": "#543A61",
-				"colour_name": "Brave"
-			},
-			{
-				"hex_value": "#9A5953",
-				"colour_name": "Brilliant"
-			},
-			{
-				"hex_value": "#C87F76",
-				"colour_name": "Confident"
-			}
-		]
-	},
+  {
+    "id": 93,
+    "brand": "revlon",
+    "name": "Revlon ColorBurst Lacquer Balm",
+    "price": "11.49",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/4992a5ad01b474ae1de4a955d6224aca_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/revlon-colorburst-lacquer-balm_84514.html",
+    "website_link": "https://well.ca",
+    "description": "Revlon ColorBurst Lacquer Balm offers high shine with balm-like \nmoisture!  Packaged in an adorable chubby crayon, this Lacquer balm is infused with a Triple Butter Complex of Shea, Mango and \nCoconut Butter.",
+    "rating": null,
+    "category": "lipstick",
+    "product_type": "lipstick",
+    "tag_list": [
+      
+    ],
+    "created_at": "2016-10-01T18:25:28.092Z",
+    "updated_at": "2017-12-23T20:50:59.978Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/93.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/093/original/data?1514062259",
+    "product_colors": [
+      {
+        "hex_value": "#BF7061",
+        "colour_name": "Coy "
+      },
+      {
+        "hex_value": "#E58674",
+        "colour_name": "Demure "
+      },
+      {
+        "hex_value": "#8E4852",
+        "colour_name": "Enticing "
+      },
+      {
+        "hex_value": "#A30017",
+        "colour_name": "Provocative "
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "brand": "cargo cosmetics",
+    "name": "Cargo Cosmetics Essential Lip Color",
+    "price": "24.0",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/5e51a2c8ce9316c8342ac47fdc0ebd1d_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/cargo-cosmetics-essential-lip-color_87598.html",
+    "website_link": "https://well.ca",
+    "description": "Cargo Cosmetics Essential Lip Color has a smooth, creamy and lightweight formula that offers high pigment \npayoff while leaving lips plump and perfectly hydrated throughout the \nday. Olive oil, Shea Butter and Jojoba oil provide essential moisture \nwhile plumping peptides offer instant fullness.\n \nFeatures:\nRich Emollients of olive oil, jojoba and shea butter flood lips with\n essential moisture, enhancing the feel and wear of the lipstick.Maxi Lip greatly increases lip moisture as it reinforces the \nconnective tissue of the lips. Instantly lips appear fuller and more \nvoluminous.Gluten FreeShade Range: Ingredients: Hydrogenated Polyisobutene, Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl\n Dimer Dilinoleate, Polyethylene, Bis-Diglyceryl Polyacyladipate-2, \nOctyldodecanol, Triisostearin, Phenyl Trimethicone, Hydrated Silica, \nSqualane, Microcrystalline Wax (Cera Microcristallina), Pentaerythrityl \nTetraisostearate, Ethylhexyl Palmitate, Tribehenin, Sorbitan \nIsostearate, Palmitoyl Oligopeptide, Hydrogenated Olive Oil, Olea \nEuropaea (Olive) Fruit Oil, Olea Europaea (Olive) Oil Unsaponifiables, \nTheobroma Cacao (Cocoa) Seed Butter, Simmondsia Chinensis (Jojoba) Seed \nOil, Persea Butyrospermum Parkii (Shea Butter), Gratissima (Avocado) \nOil, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Tocopheryl \nAcetate, Tocopherol, Tetrahexyldecyl Ascorbate, Vp/Eicosene Copolymer, \nVp/Hexadecene Copolymer, Acrylates Copolymer, Polyethylene \nTerephthalate, Synthetic Fluorphlogopite, Calcium Sodium Borosilicate, \nCalcium Aluminum Borosilicate, Tin Oxide, Silica. May Contain (+/-): \nMica, Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491, Ci 77492, Ci \n77499), Carmine (Ci 75470), Manganese Violet (Ci 77742), Red 6 (Ci \n15850), Red 7 Lake (Ci 15850), Red 21 (Ci 45380), Red 27 (Ci 45410), Red\n 28 Lake (Ci 45410), Red 30 Lake (Ci 77360), Red 33 Lake (Ci 17200), \nOrange 5 (Ci 45370), Yellow 5 Lake (Ci 45370), Yellow 6 Lake (Ci 15985),\n Blue 1 Lake (Ci 42090).\n",
+    "rating": 4.8,
+    "category": "lipstick",
+    "product_type": "lipstick",
+    "tag_list": [
+      "Gluten Free"
+    ],
+    "created_at": "2016-10-01T18:25:26.646Z",
+    "updated_at": "2017-12-23T20:50:59.834Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/92.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/092/original/data?1514062259",
+    "product_colors": [
+      {
+        "hex_value": "#EBACA3",
+        "colour_name": "Bermuda (Nude Pink) "
+      },
+      {
+        "hex_value": "#E07875",
+        "colour_name": "Bombay (Shimmery Rose) "
+      },
+      {
+        "hex_value": "#6F1E2C",
+        "colour_name": "Bordeaux (Deep Wine) "
+      },
+      {
+        "hex_value": "#CB705D",
+        "colour_name": "Dubai (Burnt Nude) "
+      },
+      {
+        "hex_value": "#E379A1",
+        "colour_name": "Kyoto (Baby Pink) "
+      },
+      {
+        "hex_value": "#E7A680",
+        "colour_name": "Las Vegas (Pale Beige) "
+      },
+      {
+        "hex_value": "#A32950",
+        "colour_name": "Napa (Rich Berry) "
+      },
+      {
+        "hex_value": "#DA506A",
+        "colour_name": "Palm Beach (Pink Coral) "
+      },
+      {
+        "hex_value": "#BC2A2D",
+        "colour_name": "Paris (Deep Red) "
+      },
+      {
+        "hex_value": "#DF5A99",
+        "colour_name": "Punta Cana (Bright Fuscia) "
+      },
+      {
+        "hex_value": "#E1A2A3",
+        "colour_name": "Santa Fe (Deep Apricot) "
+      },
+      {
+        "hex_value": "#DB3B3D",
+        "colour_name": "Sedona (Bright Coral) "
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "brand": "l'oreal",
+    "name": "L'Oreal Paris Colour Riche Collection Exclusive Pure Reds",
+    "price": "10.99",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/5d0df885cb5721b74b32f64884736ce4_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/loreal-paris-colour-riche_107475.html",
+    "website_link": "https://well.ca",
+    "description": "Inspired by L’Oréal Paris muses, Colour Riche introduces six custom-made, enriching matte red shades tailored to enhance a variety of complexions. Play on a coordinated look by pairing with red nails for an absolute statement.Features:A matte that reveals red's colour intensitySoft intense velvet formulationFormulated with velvet spheres, pure pigments, jojoba oil",
+    "rating": 5.0,
+    "category": "lipstick",
+    "product_type": "lipstick",
+    "tag_list": [
+      
+    ],
+    "created_at": "2016-10-01T18:25:25.419Z",
+    "updated_at": "2017-12-23T20:50:59.141Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/91.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/091/original/data?1514062259",
+    "product_colors": [
+      {
+        "hex_value": "#AB0C19",
+        "colour_name": "Blake's Red  "
+      },
+      {
+        "hex_value": "#8E1305",
+        "colour_name": "Eva's Red "
+      },
+      {
+        "hex_value": "#C5004B",
+        "colour_name": "Freida's Red "
+      },
+      {
+        "hex_value": "#D82A37",
+        "colour_name": "Julianne's Red "
+      },
+      {
+        "hex_value": "#C90E32",
+        "colour_name": "Liya's Red  "
+      },
+      {
+        "hex_value": "#782B2F",
+        "colour_name": "Zoe's Red  "
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "brand": "nyx",
+    "name": "NYX Extra Creamy Round Lipstick",
+    "price": "6.99",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/7e72bc983d7988c6e9b9f35d7703fbe4_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/nyx-extra-creamy-round-lipstick_106073.html",
+    "website_link": "https://well.ca",
+    "description": "NYX Extra Creamy Round Lipstick is the classic, go-to lipstick for all occasions. From Pure Nude to Pink Lyric to Chic Red, Round Lipstick is available in a jaw-dropping variety of shades. Features:Formula offers a velvety textureMineral based to moisturize and condition lipsPigment packed saturated color Long-wearing and smudge resistant Available in a variety of coloursINGREDIENTS: Diisostearyl Malate, Bis-DiglycerylPolyacyladipate-2, Polyglyceryl-2 Triisostearate, Octyldodecanol, IsostearylIsostearate, Ethylhexyl Palmitate, Euphorbia Cerifera (Candelilla) Wax /Euphorbia Cerifera Cera / Cire de Candelilla, Ceresin, Beeswax / Cera Alba /Cire d’abeille, Polyisobutene, Polyethylene, Copernicia Cerifera (Carnauba) Wax/ Copernicia Cerifera Cera / Cire de Carnauba, Microcrystalline Wax / CeraMicrocristallina / Cire Microcristalline, Tocopheryl Acetate, BHA, Limonene,Fragrance / Parfum. MAY CONTAIN / PEUTCONTENIR (+/-): Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491,77492, 77499), Red 6 (CI 15850), Red 7 (CI 15850), Red 28 (CI 45410), Red 36(CI 12085), Blue 1 Lake (CI 42090), Yellow 5 Lake (CI 19140).",
+    "rating": 4.0,
+    "category": "lipstick",
+    "product_type": "lipstick",
+    "tag_list": [
+      
+    ],
+    "created_at": "2016-10-01T18:25:22.485Z",
+    "updated_at": "2017-12-23T21:08:12.834Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/90.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/090/original/open-uri20171223-4-d4yyud?1514063292",
+    "product_colors": [
+      {
+        "hex_value": "#DAA8C5",
+        "colour_name": "Baby Pink "
+      },
+      {
+        "hex_value": "#AB6BA0",
+        "colour_name": "Castle "
+      },
+      {
+        "hex_value": "#970015",
+        "colour_name": "Chaos "
+      },
+      {
+        "hex_value": "#FF898F",
+        "colour_name": "Chic (LSS563A) Blue-Toned Bubblegum Pink (Pearl) "
+      },
+      {
+        "hex_value": "#CF337A",
+        "colour_name": "Chloe (LSS521) Iridescent Fuchsia (Pearl) "
+      },
+      {
+        "hex_value": "#FA394C",
+        "colour_name": "Femme (LSS643) Bright Pink-Red (Cream) "
+      },
+      {
+        "hex_value": "#E46A79",
+        "colour_name": "Fig (LSS640) Dark Neutral Pink (Cream) "
+      },
+      {
+        "hex_value": "#DC002C",
+        "colour_name": "Fire (LSS599) Fire-Engine Blue-Toned Red (Cream) "
+      },
+      {
+        "hex_value": "#E96384",
+        "colour_name": "Flower (LSS619) Blue-Toned Medium Pink (Pearl) "
+      },
+      {
+        "hex_value": "#F08C8C",
+        "colour_name": "Gala "
+      },
+      {
+        "hex_value": "#FD6C65",
+        "colour_name": "Haute Melon "
+      },
+      {
+        "hex_value": "#DE6463",
+        "colour_name": "Indian Pink (LSS550) Peachy Pink with Gold Shimmer (Pearl) "
+      },
+      {
+        "hex_value": "#F96173",
+        "colour_name": "Margarita (LSS597) Shimmery Coral (Pearl) "
+      },
+      {
+        "hex_value": "#FC86AF",
+        "colour_name": "Narcissus "
+      },
+      {
+        "hex_value": "#FE7C61",
+        "colour_name": "Nyx (LSS507) Tangerine (Pearl) "
+      },
+      {
+        "hex_value": "#E69F73",
+        "colour_name": "Orange Soda (LSS588) Light Salmon Pink (Cream) "
+      },
+      {
+        "hex_value": "#F76E64",
+        "colour_name": "Peach Bellini (LSS593A) Glittery Coral (Pearl) "
+      },
+      {
+        "hex_value": "#CD859D",
+        "colour_name": "Power (LSS629) Blue-Toned Mauve (Cream) "
+      },
+      {
+        "hex_value": "#E6A28E",
+        "colour_name": "Pure Nude (LSS518A) Neutral Baby Pink (Cream) "
+      },
+      {
+        "hex_value": "#F58E7C",
+        "colour_name": "Stella (LSS564A) Bright Yellow-Toned Pink (Cream) "
+      },
+      {
+        "hex_value": "#DDA1A1",
+        "colour_name": "Summer Love (LSS617) Beige with Soft Pink Undertones (Cream) "
+      },
+      {
+        "hex_value": "#7A3760",
+        "colour_name": "Violet Ray (LSS561) Violet (Cream) "
+      },
+      {
+        "hex_value": "#FA8F85",
+        "colour_name": "Vitamin (LSS626) Shimmering Peach (Pearl) "
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "brand": "maybelline",
+    "name": "Maybelline Color Sensational Rebel Bloom Lipcolour ",
+    "price": "9.99",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/fb9e6485500135d94163577da4c3579b_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/maybelline-color-sensational-rebel_101920.html",
+    "website_link": "https://well.ca",
+    "description": "\n                       \n\tMaybelline Color Sensational® Rebel Bloom lipstick offers vivacious pastels in a super-saturated lipcolour. Enjoy the kicky bouquet of lip colors in \npinks, reds and mauves.  Features:Super-saturated pigments take fresh picked pastels to a new bright\nNever dull, washed out or shy\nHoney nectar adds a sumptuous feel\n\n\t\tApplication: Apply lipcolor starting in the center of your upper lip. Work\n from the center to the outer edges of your lip, following the contours \nof your mouth. Then glide across the entire bottom lip.\n\n\t\t\n\t\n\n                    ",
+    "rating": 3.0,
+    "category": "lipstick",
+    "product_type": "lipstick",
+    "tag_list": [
+      
+    ],
+    "created_at": "2016-10-01T18:25:20.981Z",
+    "updated_at": "2017-12-23T20:50:59.663Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/89.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/089/original/open-uri20171223-4-pkrmxd?1514062259",
+    "product_colors": [
+      {
+        "hex_value": "#db967f",
+        "colour_name": "Barely Bloomed "
+      },
+      {
+        "hex_value": "#d37d79",
+        "colour_name": "Blushing Bud "
+      },
+      {
+        "hex_value": "#f05b4a",
+        "colour_name": "Coral Burst "
+      },
+      {
+        "hex_value": "#cd86b0",
+        "colour_name": "Lilac Flush "
+      },
+      {
+        "hex_value": "#ff8f9d",
+        "colour_name": "Petal Pink "
+      },
+      {
+        "hex_value": "#bd2629",
+        "colour_name": "Rose Rush "
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "brand": "dalish",
+    "name": "DaLish Lipstick Matte Collection",
+    "price": "22.0",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/6804e2a3b19200e7a7a67456421763c4_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/dalish-lipstick-matte-collection_98202.html",
+    "website_link": "https://well.ca",
+    "description": "This DaLish Lipstick wows with full coverage, full pigment colour that won’t dry out lips. Inspired by bright, garden blooms, the long lasting, fashion-forward hues endure coffee time or cocktail hour without the ring around your lips. Shade Range: LO1 - Nude Shade – ideal for thick to medium lips.LO2 - Pinky/Red – Has a real punch of colour. For anyone one is willing to be bold!LO3 - Barbie Pink! – It's bright and a fun colour to wear.LO4 - Vintage Ruby Red – This is the original Red lipstick from the 1920’s. It just never goes out of style!LO5 - Soft Coral – It’s a very versatile colour and works well on most.Ingredients: Ricinus Communis (Castor) Seed Oil, Caprylic/Capric Triglycerides, Copernicia Cerifera (Carnauba) Wax, Cetyl Palmitate, Sorbitan Palmitate, Beeswax, Sorbitan Olivate, Cetyl Alcohol, Euphorbia Cerifera (Candelilla) Wax, Hydrogenated Castor oil, Butyrospermum Parkii (shea Butter), Helianthus Annuus (Sunflower) Seed Oil, Rosmarinus officinalis (Rosemary) Leaf Extract, Benzyl Alcohol, Benzoic Acid, Dehydroacetic Acid, Sorbic Acid, Tocopherol, Vanillin, May contain (+/-), Titanium Dioxide CI 77891, Iron Oxides CI 77491, Mica CI 77019, Red 7 Lake CI 15850, Yellow 5 Lake CI 19140, Red 27 Lake CI 45410, Red 30 Lake CI 73360, Blue 1 Lake CI 42090, Carmine CI 75470. *Contains natural Antioxidant *Contains organic castor oil and Carnauba Wax ",
+    "rating": 3.8,
+    "category": "lipstick",
+    "product_type": "lipstick",
+    "tag_list": [
+      "Canadian",
+      "Natural"
+    ],
+    "created_at": "2016-10-01T18:25:17.425Z",
+    "updated_at": "2017-12-23T20:50:58.258Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/87.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/087/original/data?1514062258",
+    "product_colors": [
+      {
+        "hex_value": "#955b57",
+        "colour_name": "LO1 - Nude Shade "
+      },
+      {
+        "hex_value": "#a7082e",
+        "colour_name": "LO2 - PinkyRed  "
+      },
+      {
+        "hex_value": "#bd2150",
+        "colour_name": "LO3 - Barbie Pink "
+      },
+      {
+        "hex_value": "#891228",
+        "colour_name": "LO4 - Vintage Ruby Red "
+      },
+      {
+        "hex_value": "#bf3238",
+        "colour_name": "LO5 - Soft Coral "
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "brand": "e.l.f.",
+    "name": "e.l.f. Gotta Glow Lip Tint ",
+    "price": "7.99",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/ec1e1f8ef1fcf76d2fd21d231bbfac7c_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/elf-gotta-glow-lip-tint_117870.html",
+    "website_link": "https://well.ca",
+    "description": "This innovative e.l.f. Gotta Glow Lip Tint reacts with the chemistry of your lips to deliver a personalized, perfect shade of pink, berry. or peach! The ethereal hue gives a sheer flush of colour that enhances the natural beauty of your lips. The gel-based formula glides on smoothly and is infused with Shea Butter to moisturize and nourish. How To Use: Apply alone for a natural-looking wash of colour or as a base to any of your favorite e.l.f. lip colours. Repeat application as often as desired.Beauty Tip: Create a flushed glow on the check by applying a little directly to the cheeks and blend out with fingers or a sponge. Ingredients: Octyldodecanol, Hydrogenated Polyisobutene, Isononyl Isononanoate, Polyethylene, Dipentaerythrityl Hexahydroxystearate, Triisodecyl Trimellitate, Diisostearylmalate, Stearyl Dimethicone, Butyrospermum Parkii (Shea) Butter, Euphorbia Cerifera (Candelila) Wax, Synthetic Beeswax, Polymethyl Methacrylate, Stearic Acid, Phenoxyethanol, Tocopheryl Acetate (Ve), Ethylhexylglycerin, Oryza Sativa (Rice) Bran Oil, Pentaerythrityl Tetra-Di-T-Butyl, Hydroxyhydrocinnamate, Propylparaben. MAY CONTAIN: Titanium Dioxide (CI 77891),Red 6 Lake (CI 15850), Red 27 Lake (CI 45410), Red 21 Lake (CI 45380). ",
+    "rating": 4.5,
+    "category": "lipstick",
+    "product_type": "lipstick",
+    "tag_list": [
+      
+    ],
+    "created_at": "2016-10-01T18:25:16.232Z",
+    "updated_at": "2017-12-23T21:08:11.341Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/86.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/086/original/data?1514063291",
+    "product_colors": [
+      
+    ]
+  },
+  {
+    "id": 85,
+    "brand": "maybelline",
+    "name": "Maybelline Lip Studio Color Blur ",
+    "price": "11.99",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/a1151b59f69491a75d9f8d80827bc1ee_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/maybelline-lip-studio-color-blur_106565.html",
+    "website_link": "https://well.ca",
+    "description": "Maybelline's Lip Studio Color Blur is a unique cream matte pencil with vivid colour.  The blurring smudger allows you to create your look from full on bold to softly blurred.Features:The cream matte pencil feels extremely smooth and comfortable on lips The blurring smudger means you can create your own looks from full-on bold to softly blurredColor Blur comes in many shades ranging from vivids to neutralsHow to Use: To achieve the softly blurred look, apply colour in the center of your top and bottom lips. Using the smudger, gently blur the colour out towards the edges of your top lip and then bottom lip.",
+    "rating": null,
+    "category": "lipstick",
+    "product_type": "lipstick",
+    "tag_list": [
+      
+    ],
+    "created_at": "2016-10-01T18:25:14.865Z",
+    "updated_at": "2017-12-23T20:50:59.009Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/85.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/085/original/open-uri20171223-4-1cl0hgq?1514062258",
+    "product_colors": [
+      {
+        "hex_value": "#EF6E87",
+        "colour_name": "Berry Misbehaved "
+      },
+      {
+        "hex_value": "#CF444B",
+        "colour_name": "Cherry Cherry Bang Bang  "
+      },
+      {
+        "hex_value": "#FF94A7",
+        "colour_name": "Fast & Fuchsia  "
+      },
+      {
+        "hex_value": "#E18CB0",
+        "colour_name": "I Like to Mauve It "
+      },
+      {
+        "hex_value": "#F393B0",
+        "colour_name": "I'm Blushing! "
+      },
+      {
+        "hex_value": "#C06E8A",
+        "colour_name": "My-My Magenta "
+      },
+      {
+        "hex_value": "#B42F3F",
+        "colour_name": "Partner in Crimson  "
+      },
+      {
+        "hex_value": "#FF99DC",
+        "colour_name": "Pink Insanity  "
+      },
+      {
+        "hex_value": "#955C69",
+        "colour_name": "Plum, Please "
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "brand": "l'oreal",
+    "name": "L'Oreal Color Riche Extraordinaire Lip Color",
+    "price": "13.96",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/739bc21253ce772c2b2e7ad40d9d3f44_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/loreal-color-riche-extraordinaire_86250.html",
+    "website_link": "https://well.ca",
+    "description": "Transform lips from ordinary to extraordinary. Color is richer, lip \nsurface is smoother and shine is magnified. Formulated with precious \nmicro-oils and rich color pigments, Extraordinaire provides the ideal \nbalance of color and care for perfect lips. The unique soft-touch \napplicator allows for a silky-smooth, gliding application.Directions: Use the wand to apply starting in the center of your upper lip. Work \nfrom the center to outer edges of your lips, following the contour of \nyour mouth. Then glide across the entire bottom lip.\n\t\t",
+    "rating": 4.0,
+    "category": "lipstick",
+    "product_type": "lipstick",
+    "tag_list": [
+      
+    ],
+    "created_at": "2016-10-01T18:25:13.698Z",
+    "updated_at": "2017-12-23T21:08:06.752Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/84.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/084/original/data?1514063286",
+    "product_colors": [
+      {
+        "hex_value": "#D15D62",
+        "colour_name": "Rose Melody (101)  "
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "brand": "almay",
+    "name": "Almay Smart Shade Butter Kiss Lipstick",
+    "price": "8.99",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/c4033d18bed5b281e0340d437b81370c_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/almay-smart-shade-butter-kiss_101160.html",
+    "website_link": "https://well.ca",
+    "description": "Almay makes it easy to find your perfect lip color!Almay Smart Shade Butter Kiss™ Lipstick offers beautiful shades expertly coordinated to your unique skintone. The ultra-buttery formula drenches lips in hydration. In fact, 98% of women felt lips were instantly hydrated. Collect the perfect pink, berry, red and nude lipstick for your light, light/medium or medium skintone.Pure. Hypoallergenic. Dermatologist Tested.",
+    "rating": null,
+    "category": "lipstick",
+    "product_type": "lipstick",
+    "tag_list": [
+      
+    ],
+    "created_at": "2016-10-01T18:25:11.902Z",
+    "updated_at": "2017-12-23T20:50:57.691Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/83.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/083/original/data?1514062257",
+    "product_colors": [
+      {
+        "hex_value": "#c66294",
+        "colour_name": "Berry - light  "
+      },
+      {
+        "hex_value": "#f3748f",
+        "colour_name": "Pink - light   "
+      },
+      {
+        "hex_value": "#eb796f",
+        "colour_name": "Nude - light   "
+      },
+      {
+        "hex_value": "#f51f41",
+        "colour_name": "Red - light   "
+      },
+      {
+        "hex_value": "#d46179",
+        "colour_name": "Berry - light / medium   "
+      },
+      {
+        "hex_value": "#f05283",
+        "colour_name": "Pink - light / medium   "
+      },
+      {
+        "hex_value": "#af675e",
+        "colour_name": "Nude - light / medium   "
+      },
+      {
+        "hex_value": "#cb1e4b",
+        "colour_name": "Red - light / medium "
+      },
+      {
+        "hex_value": "#9a3056",
+        "colour_name": "Berry - medium   "
+      },
+      {
+        "hex_value": "#dc4787",
+        "colour_name": "Pink - medium "
+      },
+      {
+        "hex_value": "#763c36",
+        "colour_name": "Nude - medium   "
+      },
+      {
+        "hex_value": "#9e1b3b",
+        "colour_name": "Red - medium   "
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "brand": "wet n wild",
+    "name": "Wet n Wild Silk Finish Lipstick",
+    "price": "1.99",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/31b7ac34f3370824a7d7ed41d21092a3_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/wet-n-wild-silk-finish-lipstick_114014.html",
+    "website_link": "https://well.ca",
+    "description": "Wet n Wild lipstick formula contains all the same things as the other guys: rich color, vitamins A & E, aloe vera, and really feels like putting silk on your lips. If you’re already thinking “That is a crazy bargain,” they've now added macadamia nut oil that contains antioxidants to hydrate your lips for a smooth, supple pout. Features:Purse Pride! New improved formula and packaging!Rich, creamy, bulidable color that feels like silk on the lips!Chock-full of nutrients! Enriched with conditioning ingredients of vitamins A & E, aloe vera, and macadamia nut oilIngredients: Ricinus Communis (Castor) Seed Oil, Caprylic/Capric Triglyceride, Cetyl Ethylhexanoate, Ozokerite, Microcrystalline Wax/Cire microcristalline, Ethylhexyl Palmitate, Euphorbia Cerifera (Candelilla) Wax/Cire de candelilla, Ceresin, Diisostearyl Malate, Beeswax/Cire d'abeille, Petrolatum, VP/Hexadecene Copolymer, Copernicia Cerifera (Carnauba) Wax/Cire de carnauba, Pentaerythrityl Adipate/Caprate/Caprylate/Heptanoate, Mineral Oil/Huile minérale, Fragrance/Parfum, Phenoxyethanol, Sorbic Acid, Tocopheryl Acetate, Phytosteryl Macadamiate, Tocopherol, Glycine Soja (Soybean) Oil, Aloe Barbadensis Leaf Extract, Silica, [+/- (MAY CONTAIN/PEUT CONTENIR): Blue 1 Lake/CI 42090, Carmine/CI 75470, Iron Oxides/CI 77491, CI 77492, CI 77499, Mica, Red 21 Lake/CI 45380, Red 27 Lake/CI 45410, Red 30 Lake/CI 73360, Red 40 lake/CI 16035, Red 6/CI 15850, Red 7 Lake/CI 15850, Titanium Dioxide/CI 77891, Yellow 5 Lake/CI 19140, Yellow 6 Lake/CI 15985] ",
+    "rating": 5.0,
+    "category": "lipstick",
+    "product_type": "lipstick",
+    "tag_list": [
+      
+    ],
+    "created_at": "2016-10-01T18:25:11.068Z",
+    "updated_at": "2017-12-23T21:08:06.371Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/82.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/082/original/open-uri20171223-4-lb43oh?1514063286",
+    "product_colors": [
+      {
+        "hex_value": "#AD6678",
+        "colour_name": "Dark Pink Frost  "
+      },
+      {
+        "hex_value": "#BF1790",
+        "colour_name": "Fuchsia with Blue Pearl "
+      },
+      {
+        "hex_value": "#E96187",
+        "colour_name": "Pink Ice "
+      }
+    ]
+  },
 	{
 		"id": 887,
 		"brand": "nyx",
@@ -1186,95 +1184,29 @@ export const productsData = [
 			}
 		]
 	},
-	{
-		"id": 879,
-		"brand": "nyx",
-		"name": "Simply Vamp Lip Cream",
-		"price": "6.5",
-		"price_sign": "$",
-		"currency": "USD",
-		"image_link": "https://www.nyxcosmetics.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-cpd-nyxusa-master-catalog/default/dw48514b30/ProductImages/Lips/Simply_Vamp_Lip_Cream/simplyvamplipcream_main.jpg?sw=390&sh=390&sm=fit",
-		"product_link": "https://www.nyxcosmetics.com/simply-vamp-lip-cream/NYX_164.html?cgid=lipstick",
-		"website_link": "https://www.nyxcosmetics.com",
-		"description": "Vamp up your look instantly with our smooth and smoldering lip creams. Wear any of these six bewitching shades to brew up a little beauty magic.",
-		"rating": null,
-		"category": "lipstick",
-		"product_type": "lipstick",
-		"tag_list": [],
-		"created_at": "2017-12-24T02:27:08.257Z",
-		"updated_at": "2017-12-24T02:27:08.654Z",
-		"product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/879.json",
-		"api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/879/original/open-uri20171224-4-1loshoq?1514082428",
-		"product_colors": [
-			{
-				"hex_value": "#863C4D",
-				"colour_name": "Bewitching"
-			},
-			{
-				"hex_value": "#49142E",
-				"colour_name": "Temptress"
-			},
-			{
-				"hex_value": "#451D35",
-				"colour_name": "She Devil"
-			},
-			{
-				"hex_value": "#4F212B",
-				"colour_name": "Aphrodisiac"
-			},
-			{
-				"hex_value": "#771C21",
-				"colour_name": "Covet"
-			},
-			{
-				"hex_value": "#412227",
-				"colour_name": "Enamored"
-			}
-		]
-	},
-	{
-    "id": 1019,
-    "brand": "maia's mineral galaxy",
-    "name": "Mineral Eye Brow Liner Charcoal Brown",
-    "price": "3.0",
+  {
+    "id": 529,
+    "brand": "smashbox",
+    "name": "#ShapeMatters Palette",
+    "price": "55.0",
     "price_sign": "$",
-    "currency": "USD",
-    "image_link": "https://www.purpicks.com/wp-content/uploads/2018/06/Maia%E2%80%99s-Mineral-Galaxy-Mineral-Eye-Brow-Liner-Charcoal-Brown.jpg",
-    "product_link": "https://www.purpicks.com/product/maias-mineral-galaxy-mineral-eye-brow-liner-charcoal-brown/",
-    "website_link": "https://purpicks.com/",
-    "description": "",
+    "currency": null,
+    "image_link": "https://www.smashbox.com/media/images/products/388x396/sbx_sku_35627_388x396_0.jpg",
+    "product_link": "http://www.smashbox.com/product/6026/35669/eyes/brow/shapematters-palette/new",
+    "website_link": "http://www.smashbox.com/",
+    "description": "Full, beautifully groomed brows are super popular in our studio, so we developed a brush that helps you get the look at home quickly and easily. This stiff, bristled brush is angled to help you create the perfect on-trend eye brow. Use it to easily brush brow powder and wax onto the eye brow for a precise, polished look that wows all day long.#ShapeMatters At Smashbox Studios!Includes 3 video-Interactive Get The Look Cards to make contouring easy for your face, eye and brow shape. Just touch the card to your phone to instantly activate.Created at Smashbox Photo Studios L.A., this #ShapeMatters palette contains:9 Photo Op Eye Shadows2 Brow Powders1 Brow Wax2 Highlighters1 Bronzer1 Contour Powder1 Double-Ended Shadow/Brow Brush#SHAPEMATTERS insert with how-to'sTo Use: Check out our #ShapeMatters insert for precise how-to's by face, brow and eye shape.Full, beautifully groomed brows are super popular in our studio, so we developed a brush that helps you get the look at home quickly and easily. This stiff, bristled brush is angled to help you create the perfect on-trend eye brow. Use it to easily brush brow powder and wax onto the eye brow for a precise, polished look that wows all day long.#ShapeMatters At Smashbox Studios!Includes 3 video-Interactive Get The Look Cards to make contouring easy for your face, eye and brow shape. Just touch the card to your phone to instantly activate.Created at Smashbox Photo Studios L.A., this #ShapeMatters palette contains:9 Photo Op Eye Shadows2 Brow Powders1 Brow Wax2 Highlighters1 Bronzer1 Contour Powder1 Double-Ended Shadow/Brow Brush#SHAPEMATTERS insert with how-to'sTo Use: Check out our #ShapeMatters insert for precise how-to's by face, brow and eye shape.",
     "rating": null,
-    "category": "pencil",
+    "category": null,
     "product_type": "eyebrow",
     "tag_list": [
-      "EWG Verified",
-      "purpicks"
+      
     ],
-    "created_at": "2018-06-30T19:19:30.782Z",
-    "updated_at": "2018-09-02T22:52:06.474Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1019.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/019/original/open-uri20180630-4-1h8zp2k?1530390372",
+    "created_at": "2016-10-02T01:32:54.976Z",
+    "updated_at": "2017-12-23T20:49:19.878Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/529.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/529/original/open-uri20171223-4-cn2wx3?1514062159",
     "product_colors": [
-      {
-        "hex_value": "#5B4439",
-        "colour_name": "Charcoal Brown"
-      },
-      {
-        "hex_value": "#000000",
-        "colour_name": "Black"
-      },
-      {
-        "hex_value": "#5E3C30",
-        "colour_name": "Cocoa"
-      },
-      {
-        "hex_value": "#4D4D4B",
-        "colour_name": "Dark Gray"
-      },
-      {
-        "hex_value": "#6E4E2A",
-        "colour_name": "Hazel Brown"
-      }
+      
     ]
   },
   {
@@ -2099,527 +2031,497 @@ export const productsData = [
     ]
   },
   {
-    "id": 1040,
-    "brand": "zorah biocosmetiques",
-    "name": "Eyeshadow",
-    "price": "3.0",
-    "price_sign": "$",
-    "currency": "USD",
-    "image_link": "https://www.purpicks.com/wp-content/uploads/2018/02/Ombre-Amazonie-CC.png",
-    "product_link": "https://www.purpicks.com/product/zorah-eyeshadow/",
-    "website_link": "https://purpicks.com/",
-    "description": "<strong>Product Description</strong>Anti-aging formula made with organic Pure Argan oil and Pure Light Capture<sup>®</sup> pigments. 24 Hour crease-free intensity (no build-up increase of eyelid), no running. Pure Light Capture® pigments deliver color and luminosity. Silky and refreshingly light feel, Pure Argan eyeshadow is weightless on the eyelids. Pure Argan eyeshadow <strong>soothes</strong>, <strong>hides redness </strong>and <strong>slows the appearance of the signs of aging on the skin.</strong><p align='LEFT'>Natural cosmetic certified by Ecocert Greenlife according to Ecocert Standard available at: http://cosmetiques.ecocert.com</p>100% of the total ingredients are from natural origin5% of total ingredients are from organic farming",
+    "id": 694,
+    "brand": "dior",
+    "name": "COULEURS DESIGNER",
+    "price": "45.0",
+    "price_sign": "£",
+    "currency": "GBP",
+    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/390/100/0/packshots%252FPDG_Y0148140_f014814208_112016.jpg",
+    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/eyes/eyeshadows/pr-eyeshadows-y0148140-the-makeup-artist-tutorial-palette.html",
+    "website_link": "https://www.dior.com",
+    "description": "Born of Backstage expertise, inspired by professional techniques and textures, 5 COULEURS DESIGNER features an easy, 5-step makeup lesson (base, 2 shadows, highlighter and liner) to bring out the eyes with flawless sculpting and colour gradation.",
     "rating": null,
-    "category": "",
+    "category": null,
     "product_type": "eyeshadow",
     "tag_list": [
-      "purpicks",
-      "EcoCert"
+      
     ],
-    "created_at": "2018-06-30T19:19:32.252Z",
-    "updated_at": "2018-09-02T22:52:06.714Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1040.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/040/original/open-uri20180630-4-1afkyee?1530390386",
+    "created_at": "2017-12-03T23:22:50.561Z",
+    "updated_at": "2017-12-23T20:58:51.822Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/694.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/694/original/open-uri20171223-4-13spuxr?1514062731",
     "product_colors": [
       {
-        "hex_value": "#966A54",
-        "colour_name": "Sahara"
+        "hex_value": "#C1C0BF",
+        "colour_name": "008 SMOKY DESIGN"
       },
       {
-        "hex_value": "#6B7475",
-        "colour_name": "Evrest"
+        "hex_value": "#C5C5CC",
+        "colour_name": "208 NAVY DESIGN"
       },
       {
-        "hex_value": "#444446",
-        "colour_name": "Casablanca"
+        "hex_value": "#CDC8BD",
+        "colour_name": "308 KHAKI DESIGN"
+      },
+      {
+        "hex_value": "#D4C3BD",
+        "colour_name": "508 NUDE PINK DESIGN"
+      },
+      {
+        "hex_value": "#D2C2B4",
+        "colour_name": "708 AMBER DESIGN"
+      },
+      {
+        "hex_value": "#CDBFB9",
+        "colour_name": "718 TAUPE DESIGN"
       }
     ]
   },
   {
-    "id": 1038,
-    "brand": "sally b's skin yummies",
-    "name": "B Smudged",
-    "price": "3.0",
-    "price_sign": "$",
-    "currency": "USD",
-    "image_link": "https://www.purpicks.com/wp-content/uploads/2018/06/Sally-B_s-Skin-Yummies-B-Smudged-1.jpg",
-    "product_link": "https://www.purpicks.com/product/sally-bs-skin-yummies-b-smudged/",
-    "website_link": "https://purpicks.com/",
-    "description": "Let your eyes naturally pop with our B Smudged, a subtle eye color that adds a tint of color to the base of your lashes. An organic, cream eye color, B Smudged eliminates the inevitable uneven line from traditional eyeliners, and does not require expert blending techniques of messy, powder-based shadows. Simply 'smudge' along lash line for color that stays in place for a long lasting look.",
+    "id": 688,
+    "brand": "dior",
+    "name": "Backstage Eye Prime",
+    "price": "22.5",
+    "price_sign": "£",
+    "currency": "GBP",
+    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/390/100/0/packshots%252FPDG_Y0146000_032016.jpg",
+    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/eyes/eyeshadows/pr-eyeshadows-y0146000-10h-color-locking-and-crease-preventing-eyelid-primer.html",
+    "website_link": "https://www.dior.com",
+    "description": "The first eye primer from Dior Backstage. Its smoothing and unifying action immediately corrects and prepares the eyelid for maximum colour intensity.",
     "rating": null,
-    "category": "",
+    "category": null,
     "product_type": "eyeshadow",
     "tag_list": [
-      "EWG Verified",
-      "purpicks"
+      
     ],
-    "created_at": "2018-06-30T19:19:32.132Z",
-    "updated_at": "2018-09-02T22:52:06.697Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1038.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/038/original/open-uri20180630-4-xhqdne?1530390385",
+    "created_at": "2017-12-03T23:22:40.273Z",
+    "updated_at": "2017-12-23T20:58:50.046Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/688.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/688/original/open-uri20171223-4-1krajzv?1514062729",
+    "product_colors": [
+      
+    ]
+  },
+  {
+    "id": 304,
+    "brand": "e.l.f.",
+    "name": "e.l.f. Essential Little Black Beauty Book Eye Edition",
+    "price": "9.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/19b83ad09d00473a3258b74f69dfbb20_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/elf-essential-little-black-beauty_93244.html",
+    "website_link": "https://well.ca",
+    "description": "This convenient 48-piece makeup collection for your eyes allows you to \nhave your Little Black Beauty Book readily available anytime, anywhere! \nKeep the Beauty Book in your purse, at home or in the office so you can \nbe your own makeup artist whenever, wherever. This full assortment of 48\n eyeshadow colors allows you to create a look that reflects your \npersonal style for any occasion. The small, sleek design is great for \non-the-go beauty touch ups. Each book includes: 48 gorgeous eyeshadow \nshades, a built-in mirror, and 1 dual-ended applicator.Ingredients: Talc, Mica, Zinc Stearate, Kaolin,\n Paraffinium Liquidum(Mineral Oil), Petrolatum, Bis-Diglyceryl \nPolyacyladipate-2, Methylparaben, Propylparaben. May Contain: Iron \nOxides (CI 77491 , CI 77492 , CI 77499), Manganese Violet (CI 77742), \nMica (CI 77019), Titanium Dioxide (CI 77891), Yellow No.5 Lake (CI \n19140), Red No.40 Lake (CI 16035), Ultramarine Violet (CI 77077), Blue \nNo.1 Lake (CI 42090) \n\t\t\t\t\t\n\t\t\t\t",
+    "rating": 4.0,
+    "category": "palette",
+    "product_type": "eyeshadow",
+    "tag_list": [
+      "Vegan"
+    ],
+    "created_at": "2016-10-01T18:30:52.760Z",
+    "updated_at": "2017-12-26T00:37:41.618Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/304.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/304/original/data?1514063297",
+    "product_colors": [
+      
+    ]
+  },
+  {
+    "id": 307,
+    "brand": "maybelline",
+    "name": "Maybelline Eyestudio Color Tattoo Concentrated Crayon",
+    "price": "10.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/3f9f894b56e0616e44c5ee01dea45217_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/maybelline-eyestudio-color-tattoo_114535.html",
+    "website_link": "https://well.ca",
+    "description": "Maybelline Eyestudio Color Tattoo Concentrated Crayons give you high-intensity color that looks vibrant all-day long.Features:Smooth, soft creamy finishPlayful intense colorsAll day tattoo tenacity. Playful color intensity. In an easy glide on crayon.",
+    "rating": 3.0,
+    "category": null,
+    "product_type": "eyeshadow",
+    "tag_list": [
+      
+    ],
+    "created_at": "2016-10-01T18:30:58.610Z",
+    "updated_at": "2017-12-23T21:08:18.441Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/307.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/307/original/open-uri20171223-4-5xfc8v?1514063298",
     "product_colors": [
       {
-        "hex_value": "#485376",
-        "colour_name": "B smudged"
+        "hex_value": "#515552",
+        "colour_name": "Audacious Asphalt "
+      },
+      {
+        "hex_value": "#D8BFAC",
+        "colour_name": "Barely Beige "
+      },
+      {
+        "hex_value": "#B89A89",
+        "colour_name": "Bronze Truffle "
+      },
+      {
+        "hex_value": "#706A70",
+        "colour_name": "Charcoal Chrome "
+      },
+      {
+        "hex_value": "#5C3B27",
+        "colour_name": "Creamy Chocolate "
+      },
+      {
+        "hex_value": "#DDBA89",
+        "colour_name": "Gold Rush "
+      },
+      {
+        "hex_value": "#8E8C86",
+        "colour_name": "Grey Crystal "
+      },
+      {
+        "hex_value": "#7D6F7D",
+        "colour_name": "Lavish Lavender "
+      },
+      {
+        "hex_value": "#957B83",
+        "colour_name": "Lilac Lust "
+      },
+      {
+        "hex_value": "#E5AEB9",
+        "colour_name": "Pink Parfait "
       }
     ]
   },
   {
-    "id": 1036,
-    "brand": "rejuva minerals",
-    "name": "Multi Purpose Powder - Blush & Eye",
-    "price": "3.0",
-    "price_sign": "$",
-    "currency": "USD",
-    "image_link": "https://www.purpicks.com/wp-content/uploads/2018/06/Rejuva-Minerals-Multi-Purpose-Powder-Blush-_-Eye-1.jpg",
-    "product_link": "https://www.purpicks.com/product/rejuva-minerals-multi-purpose-powder-blush-eye/",
-    "website_link": "https://purpicks.com/",
-    "description": "Our Multi Purpose Pressed Powders may be used for blush or eye shadow. Blended with antioxidants from Certified Organic Fruits, Berries &amp; Botanicals*. Made without any gluten containing ingredients. Mica free Pink Parfait and Papaya will offer a natural, ultra sheer semi-matte finish. The petals from beautiful crushed red roses that are found in Pink Parfait, are valued for their natural color and delightful aroma that they provide! Acai Berry will offer a natural, ultra sheer satin finish (mica added). VEGAN. Image one is Pink Parfait. Image two is Papaya, and image three is Acai Berry. Model in image four is wearing Papaya. Model in image five is wearing Acai Berry. To see a demonstration of Papaya, click on the video and fast forward to 3:44. Enjoy! This product is EWG VERIFIED&#x2122; and rated 'CLEAN'in the Think Dirty app! BPA and Phthalate free packaging. Plastic parts of compacts are recyclable. *Tiny flecks of fruit and botanical particles may be visible in powder. Pink Parfait and Papaya are Titanium Dioxide and Mica free. Net Weight: 2.8 gm.",
-    "rating": null,
-    "category": "",
+    "id": 306,
+    "brand": "physicians formula",
+    "name": "Physicians Formula Shimmer Strips Extreme Shimmer Shadow & Liner Palette ",
+    "price": "15.79",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/cefc37500e17a39af22b2be42ac00abf_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/physicians-formula-shimmer-strips_102731.html",
+    "website_link": "https://well.ca",
+    "description": "This Physicians Formula Shimmer Strips Extreme Shimmer Shadow & Liner Palette gives you 6 shades to enhance and illuminate your eyes for the perfect look!Features: Wet & Dry application for 2 finishesLong wearing, blendable formula for up to 24hr wearHypoallergenicParaben & gluten freeDermatologist approvedSafe for sensitive eyes and contact lens wearerDirections: Sweep medium shade over lid as base.  Apply darkest shade to upper and lower lash line with pointed tip of applicator to line eyes. For added definition, apply darkest shade in the contour of upper eyelid.  To intensify color wet applicator, use lightest shade to highlight brow bone.Ingredients: Mica, Bis-Diglyceryl Polyacyladipate-2, Calcium Aluminum Borosilicate, Caprylic/Capric Triglyceride, Diisostearyl Malate, Silica, Talc, Phenyl Trimethicone, Calcium Sodium Borosilicate, Dimethicone, Boron Nitride, Caprylyl Glycol, Dimethicone/Vinyl Dimethicone Crosspolymer, Ethylhexylglycerin, Magnesium Stearate, Nylon-12, Sodium Dehydroacetate, Synthetic Fluorphlogopite, Tin Oxide, VP/Hexadecene Copolymer. May Contain/Peut Contenir: Iron Oxides, Manganese Violet, Titanium Dioxide.",
+    "rating": 4.5,
+    "category": "palette",
     "product_type": "eyeshadow",
     "tag_list": [
-      "purpicks",
-      "EWG Verified",
-      "Hypoallergenic",
-      "No Talc"
+      "Gluten Free"
     ],
-    "created_at": "2018-06-30T19:19:31.988Z",
-    "updated_at": "2018-09-02T22:52:06.678Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1036.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/036/original/open-uri20180630-4-ign3hh?1530390384",
+    "created_at": "2016-10-01T18:30:54.598Z",
+    "updated_at": "2017-12-26T00:33:00.796Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/306.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/306/original/data?1514063298",
+    "product_colors": [
+      
+    ]
+  },
+  {
+    "id": 277,
+    "brand": "physicians formula",
+    "name": "Physicians Formula Matte Collection Quad Eye Shadow",
+    "price": "10.49",
+    "price_sign": '$',
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/66d22b6cffd1cc8b2394e41b1c60501f_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/physicians-formula-matte-collection_58064.html",
+    "website_link": "https://well.ca",
+    "description": "Physicians Formula Matte Collection Quad Eye Shadow has a silky smooth formula, is easy to blend and is safe for \nsensitive eyes and contact lens wearers.Directions for Use: These\n natural looking shades can be used independently or combined for a \ntotal eye focus. Use lighter shades on eyelid and brow bone, medium \nshades on eyelid and\n darker shade in the crease as a contour for a more dramatic effect.    \n              Ingredients: TALC,ZINC STEARATE, DIMETHICONE, CAPRYLIC/CAPRIC TRIGLYCERIDE,KAOLIN, \nSILICA, TRISODIUM EDTA, IMIDAZOLIDINYL UREA, \nMETHYHLPARABEN,PROPYLPARABEN.MAY CONTAIN: MICA,TITANIUM DIOXIDE,IRON \nOXIDES,CARMINE,MANGANESE VIOLET,BISMUTH OXYCHLORIDE, FERRIC \nFERROCYANIDE, CHROMIUM OXIDE GREENS, ULTRAMARINES, BLUE 1 LAKE, YELLOW 5\n LAKE, SILK POWDER.Hypoallergenic. Fragrance-free. Safe for sensitive eyes and contact lens wearers. Dermatologist Approved. Easy to blend.",
+    "rating": 4.6,
+    "category": null,
+    "product_type": "eyeshadow",
+    "tag_list": [
+      "Gluten Free"
+    ],
+    "created_at": "2016-10-01T18:30:07.788Z",
+    "updated_at": "2017-12-23T21:08:11.874Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/277.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/277/original/open-uri20171223-4-a17eci?1514063291",
+    "product_colors": [
+      
+    ]
+  },
+  {
+    "id": 276,
+    "brand": "cargo cosmetics",
+    "name": "Cargo Cosmetics Eye Shadow Single",
+    "price": "19.0",
+    "price_sign": '$',
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/12b1caa07e20c2e9535fc67120f4abb1_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/cargo-cosmetics-eye-shadow-single_87586.html",
+    "website_link": "https://well.ca",
+    "description": "Cargo Eye Shadow singles are packaged in their signature tin.  This \nsoft and velvety formula has a smooth feel and delivers a long-lasting, \neven application. Rich pigments adhere to skin to give long wearing, \nsaturated color. Colors adhere to the skin and blend effortlessly  and \nare buildable for added intensity.  May also be used wet or dry as an \neye liner.\n Eyes are enhanced  in a wide variety of colors that offer the ultimate in makeup expression. Paraben free.\n \nFeatures:\nSilica  helps with the blendability of the product and gives a velvety smooth texture.  Allows for shadow to be used wet.Jet Milled Talc provides smooth feel and application.Vitamin E  is an antioxidant  helps to keep the skin supple and smooth.Aloe Barbadensis Leaf Extract  hydrates and nourishes the skin.Paraben-freeShade Range: Ingredients: Talc, Octyldodecyl Stearoyl Stearate, Octyldodecyl Stearate, Zinc \nStearate, Silica, Boron Nitride, Tocopheryl Acetate, Phenoxyethanol, \nCaprylyl Glycol, Alumina, Carthamus Tinctoris (Safflower) Seed Oil, Aloe\n Barbadensis Leaf Extract, Sorbic Acid. May Contain (+/-): Mica \n(CI 77019), Iron Oxides (CI 77491, CI 77492, CI 77499), FD&C Yellow \n#5 Lake (CI 19140:1), FD&C Blue #1 Lake (CI 42090), FD&C Red #40\n Lake (CI 16035:1), Titanium Dioxide (CI 77891), Bismuth Oxychloride (CI\n 77163), Chromium Oxide Green (CI 77288), Chromium Hydroxide Green (CI \n77289), Ferric Ferrocyanide (CI 77510), Manganese Violet (CI 77742), \nUltramarines (CI 77007), Bronze Powder (CI 77400), Tin Oxide (CI 77861).",
+    "rating": 5.0,
+    "category": null,
+    "product_type": "eyeshadow",
+    "tag_list": [
+      
+    ],
+    "created_at": "2016-10-01T18:30:06.844Z",
+    "updated_at": "2017-12-23T21:08:11.721Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/276.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/276/original/data?1514063291",
     "product_colors": [
       {
-        "hex_value": "#E1BFC0",
-        "colour_name": "Pink Parfait"
+        "hex_value": "#542D7E",
+        "colour_name": "Moreton Bay (Deep Matte Plum) "
       },
       {
-        "hex_value": "#D7A7A3",
-        "colour_name": "Papaya"
+        "hex_value": "#159191",
+        "colour_name": "Aegean (Turquoise Shimmer) "
       },
       {
-        "hex_value": "#E6C3CB",
-        "colour_name": "Acai Berry"
+        "hex_value": "#E3AF50",
+        "colour_name": "Oz (Warm Golden Yellow Shimmer) "
+      },
+      {
+        "hex_value": "#BC977C",
+        "colour_name": "St. Tropez (Natural Beige Shimmer) "
       }
     ]
   },
   {
-    "id": 1034,
-    "brand": "rejuva minerals",
-    "name": "Multi Purpose Powder - Eye Shadow & Face",
-    "price": "3.0",
-    "price_sign": "$",
-    "currency": "USD",
-    "image_link": "https://www.purpicks.com/wp-content/uploads/2018/06/Rejuva-Minerals-Multi-Purpose-Powder-Eye-Shadow-Face-1.jpg",
-    "product_link": "https://www.purpicks.com/product/rejuva-minerals-multi-purpose-powder-eye-shadow-face/",
-    "website_link": "https://purpicks.com/",
-    "description": "Our Multi Purpose Pressed Powders may be used as eye shadow, brow powder, eye liner, or for highlighting. Blended with antioxidants from Certified Organic Fruits, Berries &amp; Botanicals*. No gluten derived ingredients. VEGAN. All shades will offer a semi-matte finish, with the exception of White Diamond. White Diamond will offer a shimmery finish. Image one shows shade in Iris. This product is EWG VERIFIED&#x2122; and rated 'CLEAN' in the Think Dirty app! BPA and Phthalate free packaging. Plastic parts of compacts are recyclable.",
-    "rating": null,
-    "category": "",
+    "id": 275,
+    "brand": "pure anada",
+    "name": "Pure Anada Pressed Mineral Eye Color Pan",
+    "price": "8.0",
+    "price_sign": '$',
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/9b489f80495f5d059d0f49ef38c36664_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/pure-anada-pressed-mineral-eye-color_83502.html",
+    "website_link": "https://well.ca",
+    "description": "Pure Anada is pleased to bring you a lovely selection of convenient pressed mineral colors!   You’ll love the silky texture and longevity of these very wearable shades.Mineral pigments and organic Jojoba are pressed together to create a natural makeup product. You can have confidence that you are making a beautiful, healthy choice!Pure Anada pressed colors are designed to be inserted into customizable magnetic compacts like the Pure Ananda Reusable Magnetic Compact. Design your own palette! What look do you go for: the natural bronzed babe, tropical brights, or classic beauty? Try all three with this get the look with natural makeup piece found on our blog, The Well! Shadow Finishes: Demi-Matte shadows are a combination of opaque matte minerals and luminous satin mica.  This provides both true color and a light-reflecting finish.Matte shadows are soft, silky shadows that do not exude any sheen whatsoever.Shades: Ingredients: Mica (CI 77019), Iron Oxides (CI 77492, CI 77499) Calcium Carbonate, Caprylic Triglyceride *Simmondsia Chinensis (Jojoba seed oil) Ultramarines (CI 77007), Titanium Dioxide (CI 77891) * Certified Organic IngredientVegan, Gluten Free, Non-GMO, Dairy Free, Peanut Free, Natural",
+    "rating": 4.5,
+    "category": null,
     "product_type": "eyeshadow",
     "tag_list": [
-      "purpicks",
-      "EWG Verified",
+      "Natural",
       "Vegan",
-      "Organic"
+      "Gluten Free",
+      "Non-GMO",
+      "Canadian"
     ],
-    "created_at": "2018-06-30T19:19:31.827Z",
-    "updated_at": "2018-09-02T22:52:06.661Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1034.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/034/original/open-uri20180630-4-1n63e1y?1530390382",
+    "created_at": "2016-10-01T18:30:03.877Z",
+    "updated_at": "2017-12-23T21:08:11.558Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/275.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/275/original/data?1514063291",
     "product_colors": [
       {
-        "hex_value": "#F7F8F3",
-        "colour_name": "White Diamond"
+        "hex_value": "#533C5D",
+        "colour_name": "Blackberry (Demi-Matte) "
       },
       {
-        "hex_value": "#E8B49B",
-        "colour_name": "Tropical Sunset"
+        "hex_value": "#8CA7B5",
+        "colour_name": "Breeze (Demi-Matte) "
       },
       {
-        "hex_value": "#292627",
-        "colour_name": "Moonless Night"
+        "hex_value": "#CC9B7B",
+        "colour_name": "Burlap (Matte)  "
       },
       {
-        "hex_value": "#A17E69",
-        "colour_name": "Mocha Latte"
+        "hex_value": "#ecc2c6",
+        "colour_name": "Cameo (Demi-Matte Light Pink White) "
       },
       {
-        "hex_value": "#8C666E",
-        "colour_name": "Iris"
+        "hex_value": "#9786b0",
+        "colour_name": "Crocus (Demi-Matte Lilac Purple "
       },
       {
-        "hex_value": "#615349",
-        "colour_name": "Brazillian Brown"
+        "hex_value": "#ac9689",
+        "colour_name": "Dove\t(Matte Medium Grey) "
       },
       {
-        "hex_value": "#F7DEC4",
-        "colour_name": "Beach Bum"
+        "hex_value": "#fcdda6",
+        "colour_name": "Ecru\t(Matte Cream) "
+      },
+      {
+        "hex_value": "#A06C69",
+        "colour_name": "Espresso (Demi-Matte) "
+      },
+      {
+        "hex_value": "#e38597",
+        "colour_name": "Freesia (Demi-Matte Medium Pink) "
+      },
+      {
+        "hex_value": "#A6777A",
+        "colour_name": "Grape (Demi-Matte) "
+      },
+      {
+        "hex_value": "#FBCFB2",
+        "colour_name": "Luna (Demi-Matte) "
+      },
+      {
+        "hex_value": "#8A9C86",
+        "colour_name": "Meadow (Demi-Matte) "
+      },
+      {
+        "hex_value": "#CEB2A0",
+        "colour_name": "Mirage (Demi-Matte) "
+      },
+      {
+        "hex_value": "#EFB49E",
+        "colour_name": "Nectar (Demi-Matte) "
+      },
+      {
+        "hex_value": "#2f2a27",
+        "colour_name": "Onyx (Demi-Matte Black) "
+      },
+      {
+        "hex_value": "#9D837E",
+        "colour_name": "Pewter (Demi-Matte) "
+      },
+      {
+        "hex_value": "#6f9087",
+        "colour_name": "Reef (Demi-Matte Turquoise) "
+      },
+      {
+        "hex_value": "#C89987",
+        "colour_name": "Sahara (Demi-Matte) "
+      },
+      {
+        "hex_value": "#BAB4B6",
+        "colour_name": "Sterling (Demi-Matte) "
+      },
+      {
+        "hex_value": "#F9DDCB",
+        "colour_name": "Whisper (Demi-Matte) "
       }
     ]
   },
   {
-    "id": 1027,
-    "brand": "marienatie",
-    "name": "Pressed Eye Shadow",
-    "price": "3.0",
-    "price_sign": "$",
-    "currency": "USD",
-    "image_link": "https://www.purpicks.com/wp-content/uploads/csm/pressed_eyeshadow_LORES_1024x1024_55deb6c3-b7cd-4cb5-9ede-f2931c07312a1.jpg",
-    "product_link": "https://www.purpicks.com/product/marie-natie-pressed-eye-shadow/",
-    "website_link": "https://purpicks.com/",
-    "description": "Hypoallergenic shadows that are rich in colour with a lightweight texture.  These MarieNatie shadows are fragrance-free and will stay on all day.   Compact comes with a mini brush that can be stored away.  Titanium dioxide acts as an absorbent of oil and jojoba cleanses and moisturizes the skin.",
-    "rating": null,
-    "category": "",
+    "id": 273,
+    "brand": "maybelline",
+    "name": "Maybelline Eye Studio Color Tattoo 24HR Cream Gel Shadow ",
+    "price": "8.99",
+    "price_sign": '$',
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/58d07d24e39142e0c5a178b00b6b31f1_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/maybelline-eye-studio-color-tattoo_67270.html",
+    "website_link": "https://well.ca",
+    "description": "Dare to wear 24HR shadow!Maybelline's Color Tattoo Cream Gel \nShadow uses ink technology for their most intense, long-lasting shimmery metallic shades﻿. The cream formula glides on without creasing and keeps \ncolour vibrant.Ophthalmologist-tested. Safe for sensitive eyes and contact lens wearers.\n                    \n                    \n                    \n                        \n                        Shade Range: For best results: With \nfingertips, sweep all over eye from inner corner and work outwards. For\n added drama, darken as desired.      ",
+    "rating": 4.0,
+    "category": null,
     "product_type": "eyeshadow",
     "tag_list": [
-      "purpicks",
-      "CertClean"
+      
     ],
-    "created_at": "2018-06-30T19:19:31.278Z",
-    "updated_at": "2018-09-02T22:52:06.599Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1027.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/027/original/open-uri20180630-4-2ii6k2?1530390377",
+    "created_at": "2016-10-01T18:30:01.223Z",
+    "updated_at": "2017-12-23T20:51:33.487Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/273.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/273/original/open-uri20171223-4-ql025m?1514062293",
     "product_colors": [
       {
-        "hex_value": "#FDFAF9",
-        "colour_name": "Blanc"
+        "hex_value": "#fdd3d2",
+        "colour_name": "Inked in Pink (55) "
       },
       {
-        "hex_value": "#F9F5F2",
-        "colour_name": "A la mode"
+        "hex_value": "#c5c7c8",
+        "colour_name": "Silver Strike (60) "
       },
       {
-        "hex_value": "#C5BEBA",
-        "colour_name": "Soiree"
-      },
-      {
-        "hex_value": "#DFC99C",
-        "colour_name": "Oro"
-      },
-      {
-        "hex_value": "#635152",
-        "colour_name": "Cafe"
-      },
-      {
-        "hex_value": "#DADFBF",
-        "colour_name": "Emerald"
-      },
-      {
-        "hex_value": "#A2AA93",
-        "colour_name": "Foret"
-      },
-      {
-        "hex_value": "#8E6771",
-        "colour_name": "Tres Beau"
-      },
-      {
-        "hex_value": "#9886A3",
-        "colour_name": "C'est Bon"
-      },
-      {
-        "hex_value": "#5B739C",
-        "colour_name": "Lune"
-      },
-      {
-        "hex_value": "#464342",
-        "colour_name": "Minuit"
-      },
-      {
-        "hex_value": "#CBDDE3",
-        "colour_name": "Mon Amour"
-      },
-      {
-        "hex_value": "#E2CED1",
-        "colour_name": "Fleur"
+        "hex_value": "#f2caad",
+        "colour_name": "Barely Branded (70) "
       }
     ]
   },
   {
-    "id": 1024,
-    "brand": "marienatie",
-    "name": "Loose Mineral Eyeshadow",
-    "price": "3.0",
-    "price_sign": "$",
-    "currency": "USD",
-    "image_link": "https://www.purpicks.com/wp-content/uploads/csm/Loose_MineralEyeshadow_1024x1024_a958d62b-c518-4548-a2cd-9c8981f5edee1.jpg",
-    "product_link": "https://www.purpicks.com/product/marie-natie-loose-mineral-eyeshadow/",
-    "website_link": "https://purpicks.com/",
-    "description": "Long-lasting eye colours delivering an instant glam and shimmer.  Silky and soft texture of MarieNatie glides on easily when applied wet or dry.  Magnesium stearate repels water and will help keep your eye shadow on all day and absorb any extra oil.  Kaolin clay will help to purify, soothe different skin types.",
+    "id": 256,
+    "brand": "marcelle",
+    "name": "Marcelle Lux Cream Eye Shadow + Liner",
+    "price": "13.99",
+    "price_sign": '$',
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/4448f8a937851a10afe049b1c374f448_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/marcelle-lux-cream-eye-shadow_100215.html",
+    "website_link": "https://well.ca",
+    "description": "\n        Marcelle Lux Cream Eye Shadow + Liner gives you waterproof color that lasts all day!\n\nA jumbo pencil in a creamy, non-sticky luxurious formula. The \nultra-silky texture glides on evenly for a quick and easy application \nand color that lasts up to 9 + hours.  Waterproof, the color will not \nsmudge, transfer or crease once it sets.Use each pencil alone as a \nshadow or as a liner, or mix and match shades to create your own looks. \nThe sponge-end makes smoky-eye looks easy to achieve. Simply use the \nsmudge tip to extend the color onto your lid for the perfect smoky eye.\n\nHypo-allergenic and perfume free.Shade Range:     ",
     "rating": null,
-    "category": "",
+    "category": null,
     "product_type": "eyeshadow",
     "tag_list": [
-      "purpicks",
-      "CertClean"
+      "Canadian"
     ],
-    "created_at": "2018-06-30T19:19:31.101Z",
-    "updated_at": "2018-09-02T22:52:06.518Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1024.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/024/original/open-uri20180630-4-13b5ehh?1530390375",
+    "created_at": "2016-10-01T18:29:34.360Z",
+    "updated_at": "2017-12-23T21:08:19.178Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/256.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/256/original/data?1514063299",
     "product_colors": [
       {
-        "hex_value": "#D1A390",
-        "colour_name": "Bisque"
+        "hex_value": "#daaaa0",
+        "colour_name": "Ballerina "
       },
       {
-        "hex_value": "#E4C2C4",
-        "colour_name": "Rose"
+        "hex_value": "#9a6c5f",
+        "colour_name": "Taupe du Jour "
       },
       {
-        "hex_value": "#CBD0D0",
-        "colour_name": "Jade"
+        "hex_value": "#d6c4ac",
+        "colour_name": "Vanilla Ice "
       },
       {
-        "hex_value": "#9F9686",
-        "colour_name": "K aki"
-      },
-      {
-        "hex_value": "#92A281",
-        "colour_name": "Emerald"
-      },
-      {
-        "hex_value": "#C57F70",
-        "colour_name": "Oam"
-      },
-      {
-        "hex_value": "#8D6255",
-        "colour_name": "Chocolate"
-      },
-      {
-        "hex_value": "#AB9A9E",
-        "colour_name": "Riz Violet"
-      },
-      {
-        "hex_value": "#808193",
-        "colour_name": "Aubergine"
-      },
-      {
-        "hex_value": "#F8DDAE",
-        "colour_name": "Oro"
-      },
-      {
-        "hex_value": "#B0A9AC",
-        "colour_name": "Argent"
-      },
-      {
-        "hex_value": "#8B5966",
-        "colour_name": "Mauve"
-      },
-      {
-        "hex_value": "#47404A",
-        "colour_name": "Noir"
+        "hex_value": "#ad95a5",
+        "colour_name": "Wisteria "
       }
     ]
   },
   {
-    "id": 1016,
-    "brand": "lotus cosmetics usa",
-    "name": "Eye Shadow Palette Mesmerize",
-    "price": "3.0",
-    "price_sign": "$",
-    "currency": "USD",
-    "image_link": "http://www.purpicks.com/wp-content/uploads/2018/03/lotus-cosmetics-usa-eye-shadow-palette-mesmerize.png",
-    "product_link": "https://www.purpicks.com/product/lotus-cosmetics-usa/",
-    "website_link": "https://purpicks.com/",
-    "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles. Easily blendable shades give you the ability to create effortlessly natural or dramatic looks. Made with natural and organic ingredients.",
-    "rating": null,
-    "category": "palette",
+    "id": 188,
+    "brand": "pacifica",
+    "name": "Pacifica Natural Minerals Smolder Eye Lining Gel",
+    "price": "27.96",
+    "price_sign": '$',
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/33227552d3b079b7a8c30777e426fb0b_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/pacifica-natural-minerals-smolder_86682.html?cat=323",
+    "website_link": "https://well.ca",
+    "description": "Pacifica Natural Minerals Smolder Eye Lining Gel stands above the rest. It's not\n waxy or tacky but has a creamy finish that can be smudged or left \nsharp. The smooth application allows you to rock a natural to smoky \ndramatic look with long-lasting natural mineral color. Line the eyes \neffortlessly or use as an allover creaseless shadow. Can be worn sheer \nor layered for more intensity. Gently line both upper and/or lower eye \nlid with a lining brush for a dramatic effect, or simply use your finger\n to smudge the edges for your sexy smolder. A product that is a true \nmulti-tasker. 100% vegan.In three full depth shades: Anchor: (bronzed brown)Midnight: (deep navy)Tahitian Pearl: (pearlized green/ grey with gold dust)Features:100% vegan, no animal ingredients or testingA product that is a true multi-taskerThe natural color can be layered for a more dramatic lookIngredients:\n Caprylic/Capric Trglyceride (Coconut Source), Cyclopentasiloxane, Mica,\n Tribehenin (Plant Source), Cocos Nucifera (Coconut) Oil, Cocos Nucifera\n (Coconut) Water,  Withania Somnifera Root Extract, C18-36 Acid Glycol \nEster(Plant Source), Phenoxyethanol.  May Contain: Calcium Sodium \nBorosilicate, Tin Oxide, 77891 Iron Oxides C1 77491, C1 77492, C1 77499,\n Ultramarines C1 77007, Titanium Dioxide C1 77891.",
+    "rating": 3.0,
+    "category": null,
     "product_type": "eyeshadow",
     "tag_list": [
-      "purpicks",
-      "USDA Organic",
-      "Organic"
+      "Vegan",
+      "Natural"
     ],
-    "created_at": "2018-06-30T19:19:30.618Z",
-    "updated_at": "2018-09-02T22:52:06.804Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1016.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/016/original/open-uri20180630-4-1mmjptw?1530390369",
+    "created_at": "2016-10-01T18:27:59.358Z",
+    "updated_at": "2017-12-23T21:08:16.623Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/188.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/188/original/data?1514063296",
     "product_colors": [
       {
-        "hex_value": "#FDF5EB",
-        "colour_name": "Color 1"
+        "hex_value": "#141936",
+        "colour_name": "Midnight - Deep Navy "
       },
       {
-        "hex_value": "#F5CFBC",
-        "colour_name": "Color 2"
-      },
-      {
-        "hex_value": "#B57F57",
-        "colour_name": "Color 3"
-      },
-      {
-        "hex_value": "#A39796",
-        "colour_name": "Color 4"
+        "hex_value": "#564728",
+        "colour_name": "Tahitian - Pearl Pearlized Green-Grey with Gold Dust  "
       }
     ]
   },
   {
-    "id": 1015,
-    "brand": "lotus cosmetics usa",
-    "name": "Eye Shadow Palette Deluxe",
-    "price": "3.0",
-    "price_sign": "$",
-    "currency": "USD",
-    "image_link": "http://www.purpicks.com/wp-content/uploads/2018/03/lotus-cosmetics-usa-eye-shadow-palette-deluxe.png",
-    "product_link": "https://www.purpicks.com/product/lotus-cosmetics-usa/",
-    "website_link": "https://purpicks.com/",
-    "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles. Easily blendable shades give you the ability to create effortlessly natural or dramatic looks. Made with natural and organic ingredients.",
-    "rating": null,
-    "category": "palette",
+    "id": 182,
+    "brand": "e.l.f.",
+    "name": "e.l.f. Studio Eyeliner & Shadow Stick ",
+    "price": "4.99",
+    "price_sign": '$',
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/587c92f6ba640ab943fd1a69b23e541f_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/elf-studio-eyeliner-shadow_93285.html",
+    "website_link": "https://well.ca",
+    "description": "Achieve color intensity for your eyes with twist-up ease - no sharpening\n required!  Glide on the soft gel liner side to create dramatic \ndefinition to the eyes.  The light-reflecting pigments help line the eye\n subtly but intensely for a fuller more enhanced effect.  Use the smooth\n glide shadow stick side for soft highlighting color on the eyes to \ncomplement the liner for a polished and finished look. Perfect for \ncreating an easy smoky eye!Eyeliner Ingredient: Synthetic Beeswax, Copernicia Cerifera (Carnauba) \nWax, Ceresin Wax, Bis-Diglyceryl Polyacyladipate-2, Phenyl Trimethicone,\n Cyclomethicone, Mica, Trimethylsiloxysilicate, BHT, Benzyl Alcohol, \nMethylchloroisothiazolinone, Methylisothiazolinone\n\nMay Contain:Iron Oxides (CI 77491 CI 77492 CI 77499), Titanium Dioxide (CI77891)\n\nShadow Ingredient: Paraffin Wax, Microcrystalline Wax, Copernicia \nCerifera (Carnauba) Wax, Castor Oil, Bis-Diglyceryl Polyacyladipate-2, \nPetrolatum, Isopropyl Palmitate, BHT, Benzyl Alcohol, \nMethylchloroisothiazolinone, Methylisothiazolinone \n\nMay Contain:Iron Oxides (CI 77491 CI 77492 CI 77499), Titanium Dioxide (CI77891)\n",
+    "rating": 5.0,
+    "category": null,
     "product_type": "eyeshadow",
     "tag_list": [
-      "purpicks",
-      "USDA Organic",
-      "Organic"
+      "Vegan"
     ],
-    "created_at": "2018-06-30T19:19:30.555Z",
-    "updated_at": "2018-09-02T22:52:06.788Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1015.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/015/original/open-uri20180630-4-egfs2g?1530390369",
+    "created_at": "2016-10-01T18:27:54.039Z",
+    "updated_at": "2017-12-23T21:08:15.537Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/182.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/182/original/data?1514063295",
     "product_colors": [
-      {
-        "hex_value": "#F4DACA",
-        "colour_name": "Color 1"
-      },
-      {
-        "hex_value": "#C89281",
-        "colour_name": "Color 2"
-      },
-      {
-        "hex_value": "#4F7386",
-        "colour_name": "Color 3"
-      },
-      {
-        "hex_value": "#9D9484",
-        "colour_name": "Color 4"
-      }
-    ]
-  },
-  {
-    "id": 1014,
-    "brand": "lotus cosmetics usa",
-    "name": "Eye Shadow Palette Smokey",
-    "price": "3.0",
-    "price_sign": "$",
-    "currency": "USD",
-    "image_link": "http://www.purpicks.com/wp-content/uploads/2018/03/lotus-cosmetics-usa-eye-shadow-palette-smokey.png",
-    "product_link": "https://www.purpicks.com/product/lotus-cosmetics-usa/",
-    "website_link": "https://purpicks.com/",
-    "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles. Easily blendable shades give you the ability to create effortlessly natural or dramatic looks. Made with natural and organic ingredients.",
-    "rating": null,
-    "category": "palette",
-    "product_type": "eyeshadow",
-    "tag_list": [
-      "purpicks",
-      "USDA Organic",
-      "Organic"
-    ],
-    "created_at": "2018-06-30T19:19:30.490Z",
-    "updated_at": "2018-09-02T22:52:06.773Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1014.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/014/original/open-uri20180630-4-1y604g6?1530390368",
-    "product_colors": [
-      {
-        "hex_value": "#7F946E",
-        "colour_name": "Color 1"
-      },
-      {
-        "hex_value": "#C8B38A",
-        "colour_name": "Color 2"
-      },
-      {
-        "hex_value": "#668D9F",
-        "colour_name": "Color 3"
-      },
-      {
-        "hex_value": "#36312C",
-        "colour_name": "Color 4"
-      }
-    ]
-  },
-  {
-    "id": 1013,
-    "brand": "lotus cosmetics usa",
-    "name": "Eye Shadow Palette Seduction",
-    "price": "3.0",
-    "price_sign": "$",
-    "currency": "USD",
-    "image_link": "http://www.purpicks.com/wp-content/uploads/2018/03/lotus-cosmetics-usa-eye-shadow-palette-seduction.png",
-    "product_link": "https://www.purpicks.com/product/lotus-cosmetics-usa/",
-    "website_link": "https://purpicks.com/",
-    "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles. Easily blendable shades give you the ability to create effortlessly natural or dramatic looks. Made with natural and organic ingredients.",
-    "rating": null,
-    "category": "palette",
-    "product_type": "eyeshadow",
-    "tag_list": [
-      "purpicks",
-      "USDA Organic",
-      "Organic"
-    ],
-    "created_at": "2018-06-30T19:19:30.422Z",
-    "updated_at": "2018-09-02T22:52:06.762Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1013.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/013/original/open-uri20180630-4-1x4t7kg?1530390367",
-    "product_colors": [
-      {
-        "hex_value": "#EBBC9D",
-        "colour_name": "Color 1"
-      },
-      {
-        "hex_value": "#EFB1B0",
-        "colour_name": "Color 2"
-      },
-      {
-        "hex_value": "#5E3A31",
-        "colour_name": "Color 3"
-      },
-      {
-        "hex_value": "#72504A",
-        "colour_name": "Color 4"
-      }
-    ]
-  },
-  {
-    "id": 1012,
-    "brand": "lotus cosmetics usa",
-    "name": "Eye Shadow Palette Cocoa",
-    "price": "3.0",
-    "price_sign": "$",
-    "currency": "USD",
-    "image_link": "https://www.purpicks.com/wp-content/uploads/2018/03/lotus-cosmetics-usa-eye-shadow-palette-cocoa.png",
-    "product_link": "https://www.purpicks.com/product/lotus-cosmetics-usa/",
-    "website_link": "https://purpicks.com/",
-    "description": "A four-color eyeshadow palette infused with natural minerals and antioxidant rich extracts to help prevent fine lines and wrinkles. Easily blendable shades give you the ability to create effortlessly natural or dramatic looks. Made with natural and organic ingredients.",
-    "rating": null,
-    "category": "palette",
-    "product_type": "eyeshadow",
-    "tag_list": [
-      "purpicks",
-      "USDA Organic",
-      "Organic"
-    ],
-    "created_at": "2018-06-30T19:19:30.347Z",
-    "updated_at": "2018-09-02T22:52:06.753Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1012.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/012/original/open-uri20180630-4-1rlpw5a?1530390367",
-    "product_colors": [
-      {
-        "hex_value": "#E7CBB7",
-        "colour_name": "Color 1"
-      },
-      {
-        "hex_value": "#BE9794",
-        "colour_name": "Color 2"
-      },
-      {
-        "hex_value": "#B5816B",
-        "colour_name": "Color 3"
-      },
-      {
-        "hex_value": "#9E6D64",
-        "colour_name": "Color 4"
-      }
+      
     ]
   },
   {
@@ -2877,62 +2779,6 @@ export const productsData = [
     ]
   },
   {
-    "id": 810,
-    "brand": "clinique",
-    "name": "Lid Pop™",
-    "price": "18.0",
-    "price_sign": "$",
-    "currency": "USD",
-    "image_link": "https://www.clinique.com/media/export/cms/products/181x209/clq_ZKJT02_181x209.png",
-    "product_link": "https://www.clinique.com/product/1598/39911/makeup/eye-shadows/lid-poptm",
-    "website_link": "https://www.clinique.com",
-    "description": "Silky, long-wearing eye shadow delivers an instant pop of colour for a virtually powderless look. Builds and blends easily to a customizable level of intensity. Appropriate for contact lens wearers and sensitive eyes.",
-    "rating": null,
-    "category": null,
-    "product_type": "eyeshadow",
-    "tag_list": [
-      
-    ],
-    "created_at": "2017-12-23T23:35:15.246Z",
-    "updated_at": "2017-12-23T23:38:42.733Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/810.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/810/original/open-uri20171223-4-pewgcj?1514072322",
-    "product_colors": [
-      {
-        "hex_value": "#855371",
-        "colour_name": "Grape Pop"
-      },
-      {
-        "hex_value": "#e3a595",
-        "colour_name": "Cream Pop"
-      },
-      {
-        "hex_value": "#f5939a",
-        "colour_name": "Petal Pop"
-      },
-      {
-        "hex_value": "#fed1b9",
-        "colour_name": "Vanilla Pop"
-      },
-      {
-        "hex_value": "#20367e",
-        "colour_name": "Surf Pop"
-      },
-      {
-        "hex_value": "#008b97",
-        "colour_name": "Aqua Pop"
-      },
-      {
-        "hex_value": "#836a42",
-        "colour_name": "Willow Pop"
-      },
-      {
-        "hex_value": "#68463e",
-        "colour_name": "Cocoa Pop"
-      }
-    ]
-  },
-  {
     "id": 809,
     "brand": "clinique",
     "name": "All About Shadow&trade; Single",
@@ -3174,95 +3020,94 @@ export const productsData = [
     ]
   },
   {
-    "id": 1018,
-    "brand": "lotus cosmetics usa",
-    "name": "Mascara",
-    "price": "3.0",
+    "id": 42,
+    "brand": "maybelline",
+    "name": "Maybelline Volum'Express Falsies Big Eyes Mascara",
+    "price": "12.99",
     "price_sign": "$",
-    "currency": "USD",
-    "image_link": "https://www.purpicks.com/wp-content/uploads/2018/03/lotus-cosmetics-usa-mascara-black.png",
-    "product_link": "https://www.purpicks.com/product/lotus-cosmetics-usa-mascara/",
-    "website_link": "https://purpicks.com/",
-    "description": "All natural mascara lengthens, thickens, and defines lashes. Created with coffee extract, rice proteins and sunflower oil to condition lashes. Smudge proof and water resistant for lashes that will all day. Made with natural and organic ingredients. In Black, and Brown.",
-    "rating": null,
-    "category": "",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/a28e1387642c86f2d2e0cf446b2137aa_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/maybelline-volumexpress-falsies-big_78175.html",
+    "website_link": "https://well.ca",
+    "description": "2 brushes. 2x more impact!Now get bigger eyes with 360 degrees of false \nlash glam volume! Upper lashes get over-the-top glam with the upper \nbrush, while the lower brush grabs every tiny lower lash for a full \ncircle effect.For best results: Apply the Upper Brush against the top lid lashes and sweep from\n root to tip until a clean, voluminous look is achieved, followed by the\n lower lash line using the lower Micro Brush. Do not let dry between \ncoats. Removes easily with soap and water or with Maybelline® Clean \nExpress!™ Classic Eye Makeup Remover.\n",
+    "rating": 4.5,
+    "category": null,
     "product_type": "mascara",
     "tag_list": [
-      "purpicks",
-      "USDA Organic",
-      "Organic"
+      
     ],
-    "created_at": "2018-06-30T19:19:30.735Z",
-    "updated_at": "2018-09-02T22:52:06.816Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1018.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/018/original/open-uri20180630-4-g58t74?1530390371",
+    "created_at": "2016-10-01T18:11:34.910Z",
+    "updated_at": "2017-12-23T20:50:53.492Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/42.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/042/original/open-uri20171223-4-b55ku9?1514062253",
     "product_colors": [
       {
         "hex_value": "#000000",
-        "colour_name": "Black"
+        "colour_name": "Blackest Black "
       }
     ]
   },
   {
-    "id": 1011,
-    "brand": "green people",
-    "name": "Volumising Mascara",
-    "price": "3.0",
+    "id": 41,
+    "brand": "l'oreal",
+    "name": "L'Oreal Paris Voluminous Butterfly Mascara ",
+    "price": "13.49",
     "price_sign": "$",
-    "currency": "USD",
-    "image_link": "https://www.purpicks.com/wp-content/uploads/2018/06/Green-People-Volumising-Mascara-Black.jpg",
-    "product_link": "https://www.purpicks.com/product/green-people-volumising-mascara-black/",
-    "website_link": "https://purpicks.com/",
-    "description": "Natural mineral pigments for intense natural black colour. Nourish roots and condition lashes with 98percent natural ingredients. Unique precision brush offers excellent lash definition Natural cellulose micro spheres give outstanding volume Vitamin E, Sunflower oil & Organic Beeswax",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/3f10d95aaf893f1f0cfdd62b803f4212_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/loreal-paris-voluminous-butterfly_86375.html",
+    "website_link": "https://well.ca",
+    "description": "Stretch and extend your lashes like wings!  Introducing Voluminous \nButterfly Mascara, one of L'Oreal's most-exciting mascara innovations, yet. \nIts revolutionary Butterfly Brush™ with asymmetrical lash \nline shape extends and lifts outer corner lashes to give you a \nwinged-out effect, instantly volumizing lashes at the roots and \nstretching lashes outward. The unique Cocoon Fibers™ instantly wrap lashes in a soft, delicate veil to create silky, spectacular lashes that flutter.",
     "rating": null,
-    "category": "",
+    "category": null,
     "product_type": "mascara",
     "tag_list": [
-      "purpicks",
-      "EcoCert"
+      
     ],
-    "created_at": "2018-06-30T19:19:30.303Z",
-    "updated_at": "2018-09-02T22:52:06.581Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1011.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/011/original/open-uri20180630-4-ojcehy?1530390366",
+    "created_at": "2016-10-01T18:11:33.681Z",
+    "updated_at": "2017-12-23T20:50:53.374Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/41.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/041/original/data?1514062253",
     "product_colors": [
       {
         "hex_value": "#000000",
-        "colour_name": "Black"
+        "colour_name": "Blackest Black "
+      },
+      {
+        "hex_value": "#231F20",
+        "colour_name": "Black "
+      },
+      {
+        "hex_value": "#4D2C00",
+        "colour_name": "Black Brown "
       }
     ]
   },
   {
-    "id": 1008,
-    "brand": "c'est moi",
-    "name": "Muse Mascara",
-    "price": "3.0",
+    "id": 40,
+    "brand": "covergirl",
+    "name": "CoverGirl Professional Waterproof Mascara Very Black",
+    "price": "6.99",
     "price_sign": "$",
-    "currency": "USD",
-    "image_link": "https://www.purpicks.com/wp-content/uploads/2018/04/cest-moi-muse-mascara.png",
-    "product_link": "https://www.purpicks.com/product/muse-mascara/",
-    "website_link": "https://purpicks.com/",
-    "description": "Define, lengthen and nourish lashes with organic shea butter, grapeseed and jojoba oils. Lashes are coated gently and evenly without clumping, transferring or flaking. Long, lush lashes begin with this luxe mascara that is formulated with organic shea butter and oils of grape and jojoba seed to help nourish and condition as it lengthens and defines. Velvety and smooth, it coats lashes gently and evenly without clumping, transferring, or flaking. Made for Young Delicate Skin Types. NO – Talc, Fragrance, Parabens, Phthalates, Sulfates, Mineral oil or Propylene Glycol",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/d44d5338e9dfa2b5234a02d25af64a26_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/covergirl-professional-waterproof_97253.html",
+    "website_link": "https://well.ca",
+    "description": "Volumize, lengthen and define like a pro! CoverGirl Professional 3-in-1 mascara for all day beautiful lashes.Features:Volume + length + definition in one easy stepHypoallergenic and suitable for contact lens wearersWaterproofApplication Tips: Hold brush as close as possible to base of lashes, and wiggle it as you move it up through lashes.",
     "rating": null,
-    "category": "",
+    "category": null,
     "product_type": "mascara",
     "tag_list": [
-      "purpicks",
-      "EWG Verified",
-      "Hypoallergenic",
-      "No Talc"
+      
     ],
-    "created_at": "2018-06-30T19:19:33.056Z",
-    "updated_at": "2018-09-02T22:52:06.553Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1008.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/008/original/open-uri20180630-4-bk6ign?1530390362",
+    "created_at": "2016-10-01T18:11:32.686Z",
+    "updated_at": "2017-12-23T20:50:53.262Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/40.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/040/original/data?1514062253",
     "product_colors": [
-      {
-        "hex_value": "#000000",
-        "colour_name": "Black"
-      }
+      
     ]
-  },
+  }, 
   {
     "id": 998,
     "brand": "nyx",
@@ -3623,718 +3468,839 @@ export const productsData = [
     ]
   },
   {
-    "id": 706,
-    "brand": "dior",
-    "name": "Diorshow Iconic",
-    "price": "25.5",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/0/90/0/packshots%252FPDG_landscape_Y0696100.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/eyes/mascaras/pr-mascaras-y0696100-high-definition-lash-curler-mascara.html",
-    "website_link": "https://www.dior.com",
-    "description": "The first lash-lifting mascara by Dior.",
+    "id": 14,
+    "brand": "maybelline",
+    "name": "Maybelline Volum' Express Colossal Mascara",
+    "price": "9.79",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/5d6e0d96f6dedbc3aadd88d9403cb26e_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/maybelline-volum-express-colossal_7663.html",
+    "website_link": "https://well.ca",
+    "description": "Why You'll Love It\n\nCreates 9X the volume, instantly.\nPatented MegaBrush + Collagen Formula plump lashes one by one \nDramatic Volume with no clumps \nWashable \n",
+    "rating": 4.5,
+    "category": null,
+    "product_type": "mascara",
+    "tag_list": [
+      
+    ],
+    "created_at": "2016-10-01T18:11:01.516Z",
+    "updated_at": "2017-12-23T20:31:48.510Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/14.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/014/original/data?1514061108",
+    "product_colors": [
+      {
+        "hex_value": "#0D090A",
+        "colour_name": "Classic Black "
+      },
+      {
+        "hex_value": "#000000",
+        "colour_name": "Glam Black "
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "brand": "l'oreal",
+    "name": "L'Oreal Paris Voluminous Volume Building Mascara",
+    "price": "9.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/c9288fc106afdf3f7039a5128e0f621d_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/loreal-paris-voluminous-volume_4415.html",
+    "website_link": "https://well.ca",
+    "description": "4X Fuller Lashes\n\n\nDramatic Volume Effect\n\n\nSeparates & Builds Every Lash\n\n\nPatented Volume Maximizing Brush\nL'Oreal presents Voluminous Volume Building Mascara. Uniquely formulated to resist clumping, soften lashes and build lashes to 4X their natural thickness.\n\n\nUnique maximizing formula quickly thickens and builds lashes in a single application for a full and dramatic lash look.\n\n\nPatented Volume Maximizing Brush thickens lashes evenly, smoothly leaving them soft with virtually no flakes, smudges or clumps.\n\n\nVoluminous with Panthenol and Ceramide-R protects and conditions lashes leaving them supple and soft to the touch, resisting clumping and flaking.\n\n\nOpththalmologist and allergy tested.\n\n\nSuitable for sensitive eyes and contact lens wearers.\n\n\nClump-resistant.\n\n\nFragrance-free.\n\n\nAll day wear.\n\n",
+    "rating": 2.5,
+    "category": null,
+    "product_type": "mascara",
+    "tag_list": [
+      
+    ],
+    "created_at": "2016-10-01T18:11:00.359Z",
+    "updated_at": "2017-12-23T20:31:48.395Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/13.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/013/original/data?1514061108",
+    "product_colors": [
+      {
+        "hex_value": "#262626",
+        "colour_name": "Black "
+      },
+      {
+        "hex_value": "#000000",
+        "colour_name": "Carbon Black "
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "brand": "maybelline",
+    "name": "Maybelline Volum' Express The Rocket Mascara",
+    "price": "10.99",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/0b04408a84154f14800e4c9477f8a924_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/maybelline-volum-express-the-rocket_84350.html",
+    "website_link": "https://well.ca",
+    "description": "Explosive Volume in Rocket Time! 8X Bigger, Smoother.\n\nNow, the most explosive, beautiful lashes ever! Maybelline's patented supersonic \nbrush with micro bristles loads on big, sleek volume instantly.\n\nThe fast-glide formula keeps lashes smooth. Zero clumps!",
     "rating": null,
     "category": null,
     "product_type": "mascara",
     "tag_list": [
       
     ],
-    "created_at": "2017-12-03T23:23:01.795Z",
-    "updated_at": "2017-12-23T20:58:54.054Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/706.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/706/original/open-uri20171223-4-kkri6q?1514062733",
+    "created_at": "2016-10-01T18:10:58.856Z",
+    "updated_at": "2017-12-23T20:31:47.966Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/11.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/011/original/open-uri20171223-4-iiztlg?1514061107",
     "product_colors": [
       {
-        "hex_value": "#0A0C0D",
-        "colour_name": "090 Black"
+        "hex_value": "#000000",
+        "colour_name": "Blackest Black "
       },
       {
-        "hex_value": "#4D6895",
-        "colour_name": "268 Navy"
-      },
-      {
-        "hex_value": "#5A413D",
-        "colour_name": "698 Chestnut"
+        "hex_value": "#202020",
+        "colour_name": "Very Black "
       }
     ]
   },
   {
-    "id": 705,
-    "brand": "dior",
-    "name": "Diorshow Iconic Overcurl",
-    "price": "25.5",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/0/90/0/packshots%252FPDG_landscape_Y0697170.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/eyes/mascaras/pr-mascaras-y0697170-spectacular-volume-and-curl-professional-mascara.html",
-    "website_link": "https://www.dior.com",
-    "description": "Diorshow Iconic Overcurl pushes the limits of curl to the extreme.",
-    "rating": null,
+    "id": 10,
+    "brand": "l'oreal",
+    "name": "L'Oreal Paris Voluminous Million Lashes Mascara",
+    "price": "13.29",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/7a372820b4a151ec62a6ce4261948421_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/loreal-paris-voluminous-million_28968.html",
+    "website_link": "https://well.ca",
+    "description": "For lashes that \nlook a million times multiplied and perfectly defined, there's only one \nmascara - Voluminous® Million Lashes™. The built-in Clean Sweep \nWiping System wipes the brush free of clumps leaving the perfect amount \nof mascara for an ultra-volumized clean lash look. The Millionizing \nBrush evenly thickens lashes from root to tip. The result? Lashes look \nso multiplied, so clean, it's like seeing millions. Features: \nOphthalmologist-tested and allergy-testedSuitable for sensitive eyes an contact len wearersClump-free.Fragrance-free\n                                                 ",
+    "rating": 4.6,
     "category": null,
     "product_type": "mascara",
     "tag_list": [
       
     ],
-    "created_at": "2017-12-03T23:23:00.835Z",
-    "updated_at": "2017-12-23T20:58:53.809Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/705.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/705/original/open-uri20171223-4-w711ik?1514062733",
+    "created_at": "2016-10-01T18:10:57.744Z",
+    "updated_at": "2017-12-23T20:31:49.446Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/10.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/010/original/data?1514061109",
     "product_colors": [
       {
-        "hex_value": "gray2",
-        "colour_name": "090 Over Black"
+        "hex_value": "#030001",
+        "colour_name": "Blackest Black "
       },
       {
-        "hex_value": "#20214E",
-        "colour_name": "264 Over Blue"
+        "hex_value": "#231F20",
+        "colour_name": "Black "
       },
       {
-        "hex_value": "#43332B",
-        "colour_name": "694 Over Brown"
+        "hex_value": "#4D2C00",
+        "colour_name": "Black Brown "
+      },
+      {
+        "hex_value": "#000000",
+        "colour_name": "Blackest Black "
       }
     ]
   },
   {
-    "id": 704,
-    "brand": "dior",
-    "name": "Dior Addict It-Lash",
-    "price": "25.5",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/0/90/0/packshots%252FPDG_landscape_Y0698100_v2.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/eyes/mascaras/pr-mascaras-y0698100-fabulous-impact-vibrant-colour-volume-length-mascara.html",
-    "website_link": "https://www.dior.com",
-    "description": "Dior Addict It-lash can transform the eyes in a single flourish for a fabulous impact, as if by magic. Volume, length and the most extraordinary stylistic effects come together to achieve a fashion-forward, modern-day doe-eyed look. With unconditional hold, easy to apply and easy to remove, it is the ideal mascara for women who want it all, and want it now.",
-    "rating": null,
+    "id": 9,
+    "brand": "maybelline",
+    "name": "Maybelline Great Lash Lots of Lashes Mascara",
+    "price": "7.79",
+    "price_sign": null,
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/dfaf77464a8cb52a1a8f2a15e8abf920_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/maybelline-great-lash-lots-of-lashes_50739.html",
+    "website_link": "https://well.ca",
+    "description": "Introducing a Great Lash innovation - Great Lash Lots of Lashes!The favourite Maybelline mascara now gives the look of more lashes than ever, thanks to the exclusive Great Little Grabber Brush. In just one swipe, the Grabber Brush easily reaches all lashes - even \nin the corners - for a multiplied lash look without the clumps. The result? Great lashes with lots of impact and not a lot of work.For best results: sweep brush from root to \ntip of lashes. Continue building volume until the desired lash look is \nachieved. Do not let dry between coats. Removes easily with soap and \nwater or eye makeup remover. \n                    ",
+    "rating": 4.2,
     "category": null,
     "product_type": "mascara",
     "tag_list": [
       
     ],
-    "created_at": "2017-12-03T23:23:00.160Z",
-    "updated_at": "2017-12-23T20:58:53.372Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/704.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/704/original/open-uri20171223-4-1543imh?1514062733",
+    "created_at": "2016-10-01T18:10:56.475Z",
+    "updated_at": "2017-12-23T20:31:47.757Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/9.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/009/original/open-uri20171223-4-axycg0?1514061107",
     "product_colors": [
       {
-        "hex_value": "black",
-        "colour_name": "092 It-Black"
+        "hex_value": "#000000",
+        "colour_name": "Blackest Black "
+      },
+      {
+        "hex_value": "#2d1e17",
+        "colour_name": "Brownish Black "
       }
     ]
   },
   {
-    "id": 703,
-    "brand": "dior",
-    "name": "Diorshow New Look",
-    "price": "25.5",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/0/90/0/packshots%252FPDG_landscape_Y0697100.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/eyes/mascaras/pr-mascaras-y0697100-lash-multiplying-effect-volume-care.html",
-    "website_link": "https://www.dior.com",
-    "description": "Breathtaking eyes by Diorshow.",
-    "rating": null,
+    "id": 121,
+    "brand": "essie",
+    "name": "Essie Nail Colour",
+    "price": "10.0",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/bec95851afb08acd6f00242e97535f98_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/essie-nail-colour_33987.html",
+    "website_link": "https://well.ca",
+    "description": "Colour is the obsession! Dive in and make a splash with Essie Nail Polish. DBP, Toluene and Formaldehyde free.Features: Salon quality formulaLong-lasting, chip-resistant, with a high shine finishBright tropical colours from Essie are the perfect pop for summer! Find more beach ready beauty picks on our blog, The Well.",
+    "rating": 4.3,
     "category": null,
-    "product_type": "mascara",
+    "product_type": "nail_polish",
     "tag_list": [
       
     ],
-    "created_at": "2017-12-03T23:22:59.125Z",
-    "updated_at": "2017-12-23T20:58:53.080Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/703.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/703/original/open-uri20171223-4-19fm0l4?1514062732",
+    "created_at": "2016-10-01T18:26:05.221Z",
+    "updated_at": "2017-12-23T20:51:03.218Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/121.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/121/original/data?1514062263",
     "product_colors": [
       {
-        "hex_value": "#0A0C0D",
-        "colour_name": "090 New Look Black"
+        "hex_value": "#be254e",
+        "colour_name": "A List (434) "
       },
       {
-        "hex_value": "#00011F",
-        "colour_name": "264 New Look Blue"
+        "hex_value": "#C0C8B3",
+        "colour_name": "Absolutely Shore "
       },
       {
-        "hex_value": "#301800",
-        "colour_name": "694 New Look Brown"
+        "hex_value": "#2D3450",
+        "colour_name": "After School Boy Blazer "
+      },
+      {
+        "hex_value": "#894662",
+        "colour_name": "Angora Cardi (700) "
+      },
+      {
+        "hex_value": "#20417d",
+        "colour_name": "Aruba Blue (280) "
+      },
+      {
+        "hex_value": "#56152f",
+        "colour_name": "Bahama Mama (400) "
+      },
+      {
+        "hex_value": "#fbf1ef",
+        "colour_name": "Ballet Slippers (162) "
+      },
+      {
+        "hex_value": "#43787E",
+        "colour_name": "Beach Bum Blu - Sea Side Blue Pearl (776) "
+      },
+      {
+        "hex_value": "#552C32",
+        "colour_name": "Berry Naughty "
+      },
+      {
+        "hex_value": "#b2d8f2",
+        "colour_name": "Bikini So Tenny (800) "
+      },
+      {
+        "hex_value": "#f1f1ec",
+        "colour_name": "Blanc (008) "
+      },
+      {
+        "hex_value": "#5d2d31",
+        "colour_name": "Bordeaux (424) "
+      },
+      {
+        "hex_value": "#1d5ca0",
+        "colour_name": "Butler Please (819) "
+      },
+      {
+        "hex_value": "#b77c66",
+        "colour_name": "Buy Me Cameo (286) "
+      },
+      {
+        "hex_value": "#CD565B",
+        "colour_name": "Carousel Coral "
+      },
+      {
+        "hex_value": "#908080",
+        "colour_name": "Chinchilly (696) "
+      },
+      {
+        "hex_value": "#E0BEA6",
+        "colour_name": "Cocktails & Coconuts "
+      },
+      {
+        "hex_value": "#e41641",
+        "colour_name": "Cute as a Button (686) "
+      },
+      {
+        "hex_value": "#EE0A5A",
+        "colour_name": "Double Breasted Jacket "
+      },
+      {
+        "hex_value": "#d2878c",
+        "colour_name": "Eternal Optimist (676) "
+      },
+      {
+        "hex_value": "#CDEAD8",
+        "colour_name": "Fashion Playground "
+      },
+      {
+        "hex_value": "#ee1930",
+        "colour_name": "Fifth Avenue (444) "
+      },
+      {
+        "hex_value": "#f9ced7",
+        "colour_name": "Fiji (348) "
+      },
+      {
+        "hex_value": "#DEE8EE",
+        "colour_name": "Find Me An Oasis "
+      },
+      {
+        "hex_value": "#004153",
+        "colour_name": "Go Overboard (782) "
+      },
+      {
+        "hex_value": "#225443",
+        "colour_name": "Going Incognito "
+      },
+      {
+        "hex_value": "#F9006B",
+        "colour_name": "Haute In The Heat "
+      },
+      {
+        "hex_value": "#D9B3C0",
+        "colour_name": "Hi Maintenance "
+      },
+      {
+        "hex_value": "#81373e",
+        "colour_name": "In Stitches (727) "
+      },
+      {
+        "hex_value": "#61C3D5",
+        "colour_name": "In The Cab-ana "
+      },
+      {
+        "hex_value": "#d5b0b7",
+        "colour_name": "Lady Like "
+      },
+      {
+        "hex_value": "#658cbd",
+        "colour_name": "Lapiz of Luxury (717) "
+      },
+      {
+        "hex_value": "#130a09",
+        "colour_name": "Licorice (720) "
+      },
+      {
+        "hex_value": "#cab1ce",
+        "colour_name": "Lilacism (705) "
+      },
+      {
+        "hex_value": "#fff4ee",
+        "colour_name": "Mademoiselle (384) "
+      },
+      {
+        "hex_value": "#F46DB9",
+        "colour_name": "Madison Ave-hue "
+      },
+      {
+        "hex_value": "#e9e8e7",
+        "colour_name": "Marshmallow (024) "
+      },
+      {
+        "hex_value": "#9d8f8e",
+        "colour_name": "Master Plan (779) "
+      },
+      {
+        "hex_value": "#776670",
+        "colour_name": "Merino Cool (730) "
+      },
+      {
+        "hex_value": "#001445",
+        "colour_name": "Midnight Cami (697) "
+      },
+      {
+        "hex_value": "#D6C7CD",
+        "colour_name": "Minimalistic "
+      },
+      {
+        "hex_value": "#bde0c5",
+        "colour_name": "Mint Candy Apple "
+      },
+      {
+        "hex_value": "#af9a95",
+        "colour_name": "Mochacino (781) "
+      },
+      {
+        "hex_value": "#e9adc1",
+        "colour_name": "Muchi Muchi (152) "
+      },
+      {
+        "hex_value": "#32195a",
+        "colour_name": "No More Film (792) "
+      },
+      {
+        "hex_value": "#484445",
+        "colour_name": "Over the Edge (712) "
+      },
+      {
+        "hex_value": "#967bb9",
+        "colour_name": "Playdate (783) "
+      },
+      {
+        "hex_value": "#a50037",
+        "colour_name": "Plumberry (292) "
+      },
+      {
+        "hex_value": "#2C6D45",
+        "colour_name": "Pretty Edgy "
+      },
+      {
+        "hex_value": "#951517",
+        "colour_name": "Really Red "
+      },
+      {
+        "hex_value": "#c8b6a2",
+        "colour_name": "Sand Tropez (745) "
+      },
+      {
+        "hex_value": "#4f3d49",
+        "colour_name": "Smokin' Hot (739) "
+      },
+      {
+        "hex_value": "#02221d",
+        "colour_name": "Stylenomics (806) "
+      },
+      {
+        "hex_value": "#fde7ea",
+        "colour_name": "Sugar Daddy (473) "
+      },
+      {
+        "hex_value": "#FF726F",
+        "colour_name": "Sunday Funday "
+      },
+      {
+        "hex_value": "#f2706b",
+        "colour_name": "Tart Deco (709) "
+      },
+      {
+        "hex_value": "#D1C6C5",
+        "colour_name": "Topless & Barefoot "
+      },
+      {
+        "hex_value": "#0e4a45",
+        "colour_name": "Trophy Wife (776) "
+      },
+      {
+        "hex_value": "#EDE1D6",
+        "colour_name": "Tuck It In My Tux "
+      },
+      {
+        "hex_value": "#74cbc2",
+        "colour_name": "Turquoise & Caicos (720) "
+      },
+      {
+        "hex_value": "#dfbdbd",
+        "colour_name": "Vanity Fairest (120) "
+      },
+      {
+        "hex_value": "#dc104f",
+        "colour_name": "Watermelon (127) "
+      },
+      {
+        "hex_value": "#44001b",
+        "colour_name": "Wicked (249) "
       }
     ]
   },
   {
-    "id": 702,
-    "brand": "dior",
-    "name": "Diorshow Black Out",
-    "price": "25.5",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/0/90/0/packshots%252FPDG_landscape_Y0726100.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/eyes/mascaras/pr-mascaras-y0726100-spectacular-volume-intense-black-khol-mascara.html",
-    "website_link": "https://www.dior.com",
-    "description": "Like kohl for the lashes. Diorshow Black Out recreates the captivating effect of kohl in a mascara for extreme volume with a charcoal-like finish.",
-    "rating": null,
+    "id": 120,
+    "brand": "suncoat",
+    "name": "Suncoat Girl Nail Beauty Kit with Decals Ballerina Beauty",
+    "price": "22.49",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/0c72c8cb27e4c89746e353a332474c81_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/suncoat-girl-nail-beauty-kit-with_74571.html",
+    "website_link": "https://well.ca",
+    "description": "This Suncoat Girl Nail Beauty Kit with Decals is the ideal \"try-me\" pack or birthday gift! This three bottle set delivers fun and unique nail art designs with natural nail polish and nail decals.Features:    Water-based nail polish    Peel-able    No remover needed    Safe and non toxicKit Contains:    Ballerina Beauty color (8 mL)    Strawberry Delight color (8 mL)    Clear Topcoat (8 mL)    1 Page of Nail DecalsIngredients: water, polyurethane. May contain: mica, titanium dioxide, carmine, ferric ferrocyanide, chromium oxide green, iron oxide",
+    "rating": 4.0,
     "category": null,
-    "product_type": "mascara",
+    "product_type": "nail_polish",
     "tag_list": [
-      
+      "Canadian",
+      "Natural"
     ],
-    "created_at": "2017-12-03T23:22:58.486Z",
-    "updated_at": "2017-12-23T20:58:52.891Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/702.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/702/original/open-uri20171223-4-u6a3sc?1514062732",
+    "created_at": "2016-10-01T18:26:03.724Z",
+    "updated_at": "2017-12-23T20:51:03.088Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/120.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/120/original/data?1514062263",
     "product_colors": [
-      {
-        "hex_value": "#0A0C0D",
-        "colour_name": "099 Kohl Black"
-      }
+      
     ]
   },
   {
-    "id": 740,
-    "brand": "dior",
-    "name": "\n                            Junon\n                            ",
-    "price": "23.0",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/214/90/0/v6_packshots_sku_pdg%252FPDG_Y0002959-F000355494.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/nails/nail-lacquers/pr-naillacquers-y0002959_f000355494-couture-colour-gel-shine-long-wear.html",
-    "website_link": "https://www.dior.com",
-    "description": "Discover the new-generation Dior Vernis and its ingenious formula that plays up the gel effect.",
+    "id": 119,
+    "brand": "suncoat",
+    "name": "Suncoat Girl Nail Beauty Kit with Decals Mermaid Princess",
+    "price": "22.49",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/a05895c3b7792308c116e07ff7325f3a_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/suncoat-girl-nail-beauty-kit-with_74570.html",
+    "website_link": "https://well.ca",
+    "description": "This Suncoat Girl Nail Beauty Kit with Decals is the ideal \"try-me\" pack or birthday gift! This three bottle set delivers fun and unique nail art designs with natural nail polish and nail decals.Features:    Water-based nail polish    Peel-able    No remover needed    Safe and non toxicKit Contains:    Mermaid Blue color (8 mL)    Princess Purple color (8 mL)    Clear Topcoat (8 mL)    1 Page of Nail DecalsIngredients: water, polyurethane. May contain: mica, titanium dioxide, carmine, ferric ferrocyanide, chromium oxide green, iron oxide",
+    "rating": 4.0,
+    "category": null,
+    "product_type": "nail_polish",
+    "tag_list": [
+      "Canadian",
+      "Natural"
+    ],
+    "created_at": "2016-10-01T18:26:02.121Z",
+    "updated_at": "2017-12-23T20:51:02.898Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/119.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/119/original/data?1514062262",
+    "product_colors": [
+      
+    ]
+  },
+  {
+    "id": 117,
+    "brand": "l'oreal",
+    "name": "L'Oreal Infallible Nail Polish in Keep Magenta",
+    "price": "10.99",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/92adb254b0183b5652c581280301cb93_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/loreal-infallible-nail-polish-in_102192.html",
+    "website_link": "https://well.ca",
+    "description": "L'Oreal Infallible Nail Polish gives you fantastic gel-like nail colour with a tinted top coat to match!This Infallible nail polish has an exclusive hybrid combo of silicone and Flex-Resin™ that \ninteract with one another to create a unique matrix. The formulas are a \ncombination of film forming polymer, gellifying agents and crystal \ncopolymer designed to bring durability, adhesion to nail and brilliant \nshine. Provides a smooth, plump, spectacular gel shine manicure that \nlasts.Features: Up to 12-day wear\nSpectacular gel shine\nMatching tinted top coat\nNo nail damage\nEasy to remove",
     "rating": null,
     "category": null,
     "product_type": "nail_polish",
     "tag_list": [
       
     ],
-    "created_at": "2017-12-03T23:24:03.403Z",
-    "updated_at": "2017-12-23T20:59:02.537Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/740.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/740/original/data?1514062742",
+    "created_at": "2016-10-01T18:25:59.507Z",
+    "updated_at": "2017-12-23T20:51:02.340Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/117.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/117/original/data?1514062262",
+    "product_colors": [
+      
+    ]
+  },
+  {
+    "id": 138,
+    "brand": "essie",
+    "name": "Essie Encrusted Nail Polish Collection",
+    "price": "10.0",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/7dab50d3ac08ea9c5f2373531a47dd17_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/essie-encrusted-nail-polish_86382.html",
+    "website_link": "https://well.ca",
+    "description": "Get intricate, multi-dimensional, spectacularly ornate caviar nails with Essie Encrusted Nail Polish Collection. With \nall the fine detail of the most fanciful gem-encrusted jewel, these stunning shades take manicures to a whole new richly-sculpted dimension.Shade Range:Belugaria - live like a czarina. this richly ornamented jet black nail lacquer is laced with highly textured matte glitter with flashes of rainbow holographicsPeak of Chic - ascend the pinnacle of fashion and freeze your \nwell-manicured assets in this alpine white holographic polish with icy \ncrystal fringeOn a Silver Platter - violet holographic glitter and antique \nsilver add bold contrast to this pearlescent gold polish that proclaims:\n the world is yours for the takingLots of Lux - pile on the opulence and perfect the art of manicure\n maximalism in this shimmering blue lapis lazuli lacquer with a sleek \nmatte finishIgnite the Night - the scintillating light from this sparkling hematite nail lacquer with a superfine matte finish fans the flames of passion for luxurious fashionHors d'Oeuvres - nothing says extravagance like this delightful \nconfection of platinum gold nail polish with a touch of iridescent \nsilver glitter",
+    "rating": 5.0,
+    "category": null,
+    "product_type": "nail_polish",
+    "tag_list": [
+      
+    ],
+    "created_at": "2016-10-01T18:26:39.952Z",
+    "updated_at": "2017-12-23T20:51:07.714Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/138.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/138/original/open-uri20171223-4-1u24djz?1514062267",
     "product_colors": [
       {
-        "hex_value": "#FCD9CB",
-        "colour_name": "108 Muguet"
+        "hex_value": "#827D7A",
+        "colour_name": "On a Silver Platter "
       },
       {
-        "hex_value": "#EA4D54",
-        "colour_name": "445 Coral Crush"
+        "hex_value": "#005A98",
+        "colour_name": "Lots of Lux "
       },
       {
-        "hex_value": "#F9C8C8",
-        "colour_name": "155 Tra-la-la"
-      },
-      {
-        "hex_value": "#F7B6B6",
-        "colour_name": "268 Ruban"
-      },
-      {
-        "hex_value": "#B63853",
-        "colour_name": "785 Cosmopolite"
-      },
-      {
-        "hex_value": "#952D73",
-        "colour_name": "338 Mirage"
-      },
-      {
-        "hex_value": "#A3948B",
-        "colour_name": "306 Trianon"
-      },
-      {
-        "hex_value": "#977D7B",
-        "colour_name": "403 Palais Royal"
-      },
-      {
-        "hex_value": "#D2A896",
-        "colour_name": "413 Grège"
-      },
-      {
-        "hex_value": "#617686",
-        "colour_name": "494 Junon"
-      },
-      {
-        "hex_value": "#E73326",
-        "colour_name": "537 Riviera"
-      },
-      {
-        "hex_value": "#E61E32",
-        "colour_name": "551 Aventure"
-      },
-      {
-        "hex_value": "#E83B53",
-        "colour_name": "575 Wonderland"
-      },
-      {
-        "hex_value": "#E40040",
-        "colour_name": "659 Lucky"
-      },
-      {
-        "hex_value": "#E40B6E",
-        "colour_name": "661 Bonheur"
-      },
-      {
-        "hex_value": "#DB1057",
-        "colour_name": "669 Fizz Pink"
-      },
-      {
-        "hex_value": "#C90206",
-        "colour_name": "754 Pandore"
-      },
-      {
-        "hex_value": "#C60F54",
-        "colour_name": "769 Front Row"
-      },
-      {
-        "hex_value": "#780C18",
-        "colour_name": "853 Massaï"
-      },
-      {
-        "hex_value": "#340000",
-        "colour_name": "970 Nuit 1947"
-      },
-      {
-        "hex_value": "#A10705",
-        "colour_name": "999 Rouge 999"
+        "hex_value": "#76868C",
+        "colour_name": "Ignite the Night "
       }
     ]
   },
   {
-    "id": 730,
-    "brand": "dior",
-    "name": "\n                            Matte\n                            ",
-    "price": "23.0",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/214/90/0/v6_packshots_sku_pdg%252FPDG_Y0002959-F000355999.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/nails/nail-lacquers/pr-naillacquers-y0003759_f000375999-couture-colour-long-wear-nail-lacquer.html",
-    "website_link": "https://www.dior.com",
-    "description": "Discover the new-generation Dior Vernis and its ingenious formula that accentuates the gel effect.",
+    "id": 137,
+    "brand": "revlon",
+    "name": "Revlon Transforming Effects Top Coats",
+    "price": "6.99",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/5a4b4326f96cafe4c8bfc58ad60559e6_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/revlon-transforming-effects-top_101118.html?cat=678",
+    "website_link": "https://well.ca",
+    "description": " Transform your mani with these unique Transforming Effects Top Coats from Revlon.  Bold glazes and alluring textures \ninstantly transform your manicure. Wear over your favourite Nail \nEnamel to create unique effects.\nShades:",
+    "rating": 4.0,
+    "category": null,
+    "product_type": "nail_polish",
+    "tag_list": [
+      
+    ],
+    "created_at": "2016-10-01T18:26:38.470Z",
+    "updated_at": "2017-12-23T20:51:07.370Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/137.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/137/original/data?1514062267",
+    "product_colors": [
+      {
+        "hex_value": "#efe8db",
+        "colour_name": "Cosmic Flakies "
+      },
+      {
+        "hex_value": "#7e876b",
+        "colour_name": "Golden Confetti "
+      },
+      {
+        "hex_value": "#e1c490",
+        "colour_name": "Golden Glaze "
+      },
+      {
+        "hex_value": "#a7aba4",
+        "colour_name": "Holographic Pearls "
+      },
+      {
+        "hex_value": "#f0c9de",
+        "colour_name": "Matte Pearl Glaze "
+      },
+      {
+        "hex_value": "#dec3bc",
+        "colour_name": "Nude Graffiti "
+      },
+      {
+        "hex_value": "#d9c2d2",
+        "colour_name": "Pink Glaze "
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "brand": "sante",
+    "name": "Sante Nail Polish",
+    "price": "19.29",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/e7bf82336f5e267d5d0b491c12fdb7cd_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/sante-nail-polish_51679.html",
+    "website_link": "https://well.ca",
+    "description": "The colours of Sante nail polish range from a gentle glow to bold statement colors, and are very skin-friendly. Quick-drying, long-lasting and resistant. Incomparable variety of colors\n and remarkably wearable: no formaldehyde, toluene or rosin. Not tested on animals.Jewel toned shades like Metallic Lavender by Sante make fall beauty a breeze. For more green fall beauty essentials, check out our blog, The Well!",
+    "rating": 4.4,
+    "category": null,
+    "product_type": "nail_polish",
+    "tag_list": [
+      "Natural"
+    ],
+    "created_at": "2016-10-01T18:26:37.072Z",
+    "updated_at": "2017-12-23T20:51:07.242Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/136.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/136/original/data?1514062267",
+    "product_colors": [
+      {
+        "hex_value": "#8b6e6b",
+        "colour_name": "No.7 Metallic Lavender "
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "brand": "pure anada",
+    "name": "Pure Anada Princess Cosmetics Sugar Plum Kit ",
+    "price": "15.0",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/28f6ca4ea2ce4e10d766f4c7cd9bf3d3_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/pure-anada-princess-cosmetics-sugar_93643.html?cat=678",
+    "website_link": "https://well.ca",
+    "description": "This little cosmetics kit is pure and pretty glamour for little princesses!Pure Anada Princess Cosmetics Kit contains eco-friendly, non-toxic formulas that are safe and healthy for the whole kingdom!This kit includes: a natural shimmering lip balm, non-toxic, water-based nail polish and a mineral shimmer powder. Ingredients:Shimmer Powder: Mica, Iron Oxides, Ultramarines, May contain: Titanium Dioxide (NOT nano-sized particles)Lip Shimmer: Organic\n Sunflower Oil, Organic Shea Butter, Beeswax, Candelilla Wax, Mica, Iron\n Oxides, Coconut Oil, Stevia Leaf Extract, Vitamin E (gluten free), \nEssential oil (peppermint, cinnamon, vanilla OR lemon)Nail Polish:\n Water, Acrylates Copolymer, Butoxy Diglycol, Methylisothiazolinone, \nHydroxxethylcellulose, Mineral Pigments:  Ultramarines, Iron Oxide, \nTitanium Dioxide, Mica, OR Chromium Hydroxide Green",
+    "rating": 5.0,
+    "category": null,
+    "product_type": "nail_polish",
+    "tag_list": [
+      "Canadian",
+      "Natural"
+    ],
+    "created_at": "2016-10-01T18:26:34.722Z",
+    "updated_at": "2017-12-23T20:51:06.988Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/135.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/135/original/data?1514062266",
+    "product_colors": [
+      
+    ]
+  },
+  {
+    "id": 134,
+    "brand": "l'oreal",
+    "name": "L'Oreal Paris Colour Riche Collection Exclusive Nail Colour",
+    "price": "7.79",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/dec895e124125238709b4dbac19d53c0_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/loreal-paris-colour-riche_96634.html",
+    "website_link": "https://well.ca",
+    "description": "Your dream colour is now at your fingertips with Colour Riche® Nail \nColour. L'Oreal's formula delivers intense, luxurious colour and up to 10 days\n of shine. This collection includes signature nude shades by L'Oreal's dazzling spokeswomen. The shades are custom-made to match various skin tones and \nhaircolour.",
     "rating": null,
     "category": null,
     "product_type": "nail_polish",
     "tag_list": [
       
     ],
-    "created_at": "2017-12-03T23:23:26.195Z",
-    "updated_at": "2017-12-23T20:59:00.800Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/730.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/730/original/data?1514062740",
+    "created_at": "2016-10-01T18:26:33.250Z",
+    "updated_at": "2017-12-23T20:51:06.132Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/134.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/134/original/data?1514062266",
     "product_colors": [
       {
-        "hex_value": "#F39994",
-        "colour_name": "162 Miss Satin"
+        "hex_value": "#721f29",
+        "colour_name": "Blake's Pure Red "
       },
       {
-        "hex_value": "#C78377",
-        "colour_name": "614 Jungle Matte"
+        "hex_value": "#AB7680",
+        "colour_name": "Doutzen's Nude "
       },
       {
-        "hex_value": "#6D1724",
-        "colour_name": "979 Poison Metal"
+        "hex_value": "#E1B89C",
+        "colour_name": "Eva's Nude "
       },
       {
-        "hex_value": "#A50809",
-        "colour_name": "999 Matte"
+        "hex_value": "#AF6E67",
+        "colour_name": "Julianne's Nude "
+      },
+      {
+        "hex_value": "#72545D",
+        "colour_name": "Liya's Nude "
       }
     ]
   },
   {
-    "id": 729,
-    "brand": "dior",
-    "name": "\n                            Poison Metal\n                            ",
-    "price": "23.0",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/214/90/0/packshots%252FPDG_Y0003559_F000355979.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/nails/nail-lacquers/pr-naillacquers-y0003759_f000355979-couture-colour-long-wear-nail-lacquer.html",
-    "website_link": "https://www.dior.com",
-    "description": "Discover the new-generation Dior Vernis and its ingenious formula that accentuates the gel effect.",
-    "rating": null,
+    "id": 133,
+    "brand": "maybelline",
+    "name": "Maybelline Color Show Nail Lacquer ",
+    "price": "4.49",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/a05aa31a7e30d9d262ae36d0be2c4f87_ra,w158,h184_pa,w158,h184.png",
+    "product_link": "https://well.ca/products/maybelline-color-show-nail-lacquer_78068.html",
+    "website_link": "https://well.ca",
+    "description": "High fashion meets high-art. With Maybelline Color Show Nail Lacquer PolkaDots Collection you get 3D nail design for your fingertips!Features: \nCreates Hollywood-worthy special effectsChip-resistant formula Easy-flow brushFormaldehyde, DBP and Toluene freeShade Range: \n",
+    "rating": 3.3,
     "category": null,
     "product_type": "nail_polish",
     "tag_list": [
       
     ],
-    "created_at": "2017-12-03T23:23:25.096Z",
-    "updated_at": "2017-12-23T20:59:00.613Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/729.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/729/original/data?1514062740",
+    "created_at": "2016-10-01T18:26:31.673Z",
+    "updated_at": "2017-12-23T20:51:05.961Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/133.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/133/original/open-uri20171223-4-zz1pau?1514062265",
     "product_colors": [
       {
-        "hex_value": "#F39994",
-        "colour_name": "162 Miss Satin"
-      },
-      {
-        "hex_value": "#C78377",
-        "colour_name": "614 Jungle Matte"
-      },
-      {
-        "hex_value": "#6D1724",
-        "colour_name": "979 Poison Metal"
-      },
-      {
-        "hex_value": "#A50809",
-        "colour_name": "999 Matte"
+        "hex_value": "#037679",
+        "colour_name": "Drops of Jade  (55) "
       }
     ]
   },
   {
-    "id": 728,
-    "brand": "dior",
-    "name": "\n                            Jungle Matte\n                            ",
-    "price": "23.0",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/214/90/0/packshots%252FPDG_Y0003759_F000355614.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/nails/nail-lacquers/pr-naillacquers-y0003759_f000355614-couture-colour-long-wear-nail-lacquer.html",
-    "website_link": "https://www.dior.com",
-    "description": "Discover the new-generation Dior Vernis and its ingenious formula that accentuates the gel effect.",
-    "rating": null,
+    "id": 132,
+    "brand": "pure anada",
+    "name": "Pure Anada Princess Cosmetics Be Mine Kit ",
+    "price": "15.0",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/729f14bbcaa15888a91cd7ad200c3a90_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/pure-anada-princess-cosmetics-be_93640.html?cat=678",
+    "website_link": "https://well.ca",
+    "description": "This little cosmetics kit is pure and pretty glamour for little princesses!Pure Anada Princess Cosmetics Kit contains eco-friendly, non-toxic formulas that are safe and healthy for the whole kingdom!This kit includes: a natural shimmering lip balm, non-toxic, water-based nail polish and a mineral shimmer powder. Ingredients:Shimmer Powder: Mica, Iron Oxides, Ultramarines, May contain: Titanium Dioxide (NOT nano-sized particles)Lip Shimmer: Organic Sunflower Oil, Organic Shea Butter, Beeswax, Candelilla Wax, Mica, Iron Oxides, Coconut Oil, Stevia Leaf Extract, Vitamin E (gluten free), Essential oil (peppermint, cinnamon, vanilla OR lemon)Nail Polish: Water, Acrylates Copolymer, Butoxy Diglycol, Methylisothiazolinone, Hydroxxethylcellulose, Mineral Pigments:  Ultramarines, Iron Oxide, Titanium Dioxide, Mica, OR Chromium Hydroxide Green",
+    "rating": 5.0,
+    "category": null,
+    "product_type": "nail_polish",
+    "tag_list": [
+      "Canadian",
+      "Natural"
+    ],
+    "created_at": "2016-10-01T18:26:29.351Z",
+    "updated_at": "2017-12-23T20:51:05.773Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/132.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/132/original/data?1514062265",
+    "product_colors": [
+      
+    ]
+  },
+  {
+    "id": 131,
+    "brand": "essie",
+    "name": "Essie Nail Colour Cashmere Matte Collection",
+    "price": "10.0",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/5a8e814bb61cd9168941f448d4ea8a1c_ra,w158,h184_pa,w158,h184.jpg",
+    "product_link": "https://well.ca/products/essie-nail-colour-cashmere-matte_102081.html",
+    "website_link": "https://well.ca",
+    "description": "With a satin-matte texture and a subtle but spellbinding \nmicro-iridescent finish, this Essie Nail Colour Cashmere Matte Collection is sure to inspire you to epic \nfashion heights.Features:Soft matte finish with reflective pearl colorLuxurious neutral color palette inspired by rich cashmereFor best results, use without a top coatShades (left to right): Comfy in Cashmere, Wrap Me Up, Just Stitched, All Eyes on Nude, Coat Couture, Spun in Luxe",
+    "rating": 1.5,
     "category": null,
     "product_type": "nail_polish",
     "tag_list": [
       
     ],
-    "created_at": "2017-12-03T23:23:24.181Z",
-    "updated_at": "2017-12-23T20:59:03.023Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/728.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/728/original/data?1514062739",
+    "created_at": "2016-10-01T18:26:27.827Z",
+    "updated_at": "2017-12-23T20:51:05.428Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/131.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/131/original/data?1514062265",
     "product_colors": [
       {
-        "hex_value": "#F39994",
-        "colour_name": "162 Miss Satin"
+        "hex_value": "#a57f7b",
+        "colour_name": "Comfy in Cashmere "
       },
       {
-        "hex_value": "#C78377",
-        "colour_name": "614 Jungle Matte"
+        "hex_value": "#f3e5de",
+        "colour_name": "Wrap Me Up "
       },
       {
-        "hex_value": "#6D1724",
-        "colour_name": "979 Poison Metal"
+        "hex_value": "#938a98",
+        "colour_name": "Coat Couture "
       },
       {
-        "hex_value": "#A50809",
-        "colour_name": "999 Matte"
+        "hex_value": "#2f4a61",
+        "colour_name": "Spun in Luxe "
       }
     ]
   },
   {
-    "id": 727,
-    "brand": "dior",
-    "name": "\n                            Miss Satin\n                            ",
-    "price": "23.0",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/214/90/0/packshots%252FPDG_Y0003759_F000355162.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/nails/nail-lacquers/pr-naillacquers-y0003759_f000355162-couture-colour-long-wear-nail-lacquer.html",
-    "website_link": "https://www.dior.com",
-    "description": "Discover the new-generation Dior Vernis and its ingenious formula that accentuates the gel effect.",
-    "rating": null,
+    "id": 130,
+    "brand": "revlon",
+    "name": "Revlon Top Speed Enamel Nail",
+    "price": "6.99",
+    "price_sign": "$",
+    "currency": null,
+    "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/588d0b742409c3ad227d9b9c616e5772_ra,w158,h184_pa,w158,h184.jpeg",
+    "product_link": "https://well.ca/products/revlon-top-speed-enamel-nail_31523.html",
+    "website_link": "https://well.ca",
+    "description": "Revlon Top Speed's patented formula\n delivers  amazingly quick color, with a built-in topcoat that rises to \nthe surface for a glossy, ultra smooth manicure- that sets in 60 \nseconds.  The ColorPrecise brush ensures even, smooth, salon quality \napplication every time.\n",
+    "rating": 4.8,
     "category": null,
     "product_type": "nail_polish",
     "tag_list": [
       
     ],
-    "created_at": "2017-12-03T23:23:23.157Z",
-    "updated_at": "2017-12-23T20:58:59.809Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/727.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/727/original/data?1514062739",
+    "created_at": "2016-10-01T18:26:26.188Z",
+    "updated_at": "2017-12-23T20:51:04.960Z",
+    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/130.json",
+    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/130/original/data?1514062264",
     "product_colors": [
       {
-        "hex_value": "#F39994",
-        "colour_name": "162 Miss Satin"
+        "hex_value": "#262425",
+        "colour_name": "Black Magic "
       },
       {
-        "hex_value": "#C78377",
-        "colour_name": "614 Jungle Matte"
+        "hex_value": "#E7E8EA",
+        "colour_name": "Celestial Fix (Moon & Stars Glitter) "
       },
       {
-        "hex_value": "#6D1724",
-        "colour_name": "979 Poison Metal"
-      },
-      {
-        "hex_value": "#A50809",
-        "colour_name": "999 Matte"
-      }
-    ]
-  },
-  {
-    "id": 726,
-    "brand": "dior",
-    "name": "\n                            Mineral\n                            ",
-    "price": "23.0",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/214/90/0/packshots%252FPDG_Y0003567_F000355201.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/nails/nail-lacquers/pr-naillacquers-y0003567_f000355201-true-colour-ultra-shiny-long-wear.html",
-    "website_link": "https://www.dior.com",
-    "description": "Discover the new-generation Dior Vernis and its ingenious formula that plays up the gel effect.",
-    "rating": null,
-    "category": null,
-    "product_type": "nail_polish",
-    "tag_list": [
-      
-    ],
-    "created_at": "2017-12-03T23:23:22.803Z",
-    "updated_at": "2017-12-23T20:58:59.358Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/726.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/726/original/data?1514062739",
-    "product_colors": [
-      {
-        "hex_value": "#C0CAB7",
-        "colour_name": "201 Mineral"
-      }
-    ]
-  },
-  {
-    "id": 725,
-    "brand": "dior",
-    "name": "\n                            Sauvage\n                            ",
-    "price": "23.0",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/214/90/0/packshots%252FPDG_Y0003565_F002880924.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/nails/nail-lacquers/pr-naillacquers-y0003565_f000355924-couture-colour-gel-shine-long-wear-nail-lacquer.html",
-    "website_link": "https://www.dior.com",
-    "description": "Discover the new-generation Dior Vernis and its ingenious formula that plays up the gel effect.",
-    "rating": null,
-    "category": null,
-    "product_type": "nail_polish",
-    "tag_list": [
-      
-    ],
-    "created_at": "2017-12-03T23:23:21.844Z",
-    "updated_at": "2017-12-23T20:58:59.148Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/725.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/725/original/data?1514062739",
-    "product_colors": [
-      {
-        "hex_value": "#ED7C90",
-        "colour_name": "550 Tease"
-      },
-      {
-        "hex_value": "#EA508D",
-        "colour_name": "684 Diabolo"
-      },
-      {
-        "hex_value": "#481B2A",
-        "colour_name": "924 Sauvage"
-      }
-    ]
-  },
-  {
-    "id": 724,
-    "brand": "dior",
-    "name": "\n                            Diabolo\n                            ",
-    "price": "23.0",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/214/90/0/packshots%252FPDG_Y0003565_F002880684.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/nails/nail-lacquers/pr-naillacquers-y0003565_f000355684-couture-colour-gel-shine-long-wear-nail-lacquer.html",
-    "website_link": "https://www.dior.com",
-    "description": "Discover the new-generation Dior Vernis and its ingenious formula that plays up the gel effect.",
-    "rating": null,
-    "category": null,
-    "product_type": "nail_polish",
-    "tag_list": [
-      
-    ],
-    "created_at": "2017-12-03T23:23:21.228Z",
-    "updated_at": "2017-12-23T20:58:58.888Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/724.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/724/original/data?1514062738",
-    "product_colors": [
-      {
-        "hex_value": "#ED7C90",
-        "colour_name": "550 Tease"
-      },
-      {
-        "hex_value": "#EA508D",
-        "colour_name": "684 Diabolo"
-      },
-      {
-        "hex_value": "#481B2A",
-        "colour_name": "924 Sauvage"
-      }
-    ]
-  },
-  {
-    "id": 723,
-    "brand": "dior",
-    "name": "\n                            Tease\n                            ",
-    "price": "23.0",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/214/90/0/packshots%252FPDG_Y0003565_F002880550.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/nails/nail-lacquers/pr-naillacquers-y0003565_f000355550-couture-colour-gel-shine-long-wear-nail-lacquer.html",
-    "website_link": "https://www.dior.com",
-    "description": "Discover the new-generation Dior Vernis and its ingenious formula that plays up the gel effect.",
-    "rating": null,
-    "category": null,
-    "product_type": "nail_polish",
-    "tag_list": [
-      
-    ],
-    "created_at": "2017-12-03T23:23:20.423Z",
-    "updated_at": "2017-12-23T20:58:58.761Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/723.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/723/original/data?1514062738",
-    "product_colors": [
-      {
-        "hex_value": "#ED7C90",
-        "colour_name": "550 Tease"
-      },
-      {
-        "hex_value": "#EA508D",
-        "colour_name": "684 Diabolo"
-      },
-      {
-        "hex_value": "#481B2A",
-        "colour_name": "924 Sauvage"
-      }
-    ]
-  },
-  {
-    "id": 722,
-    "brand": "dior",
-    "name": "\n                            Precious Rocks\n                            ",
-    "price": "20.5",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/214/90/0/packshots%252FPDG_Y0002880_F000288001.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/look-exclusives/precious-rocks-collection/pr-preciousrockslook-y0002880_f000288001-nail-liner-shine-precision.html",
-    "website_link": "https://www.dior.com",
-    "description": "Diorific reveals a nail liner designed to decorate your nails like gemstones with festive shades. In one ultra-precise golden stroke, Dior Vernis Liner delivers a clear varnish strewn with gold, platinum, and silver glitter in various sizes, showering nails with countless little gems.",
-    "rating": null,
-    "category": null,
-    "product_type": "nail_polish",
-    "tag_list": [
-      
-    ],
-    "created_at": "2017-12-03T23:23:19.614Z",
-    "updated_at": "2017-12-23T20:58:58.620Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/722.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/722/original/data?1514062738",
-    "product_colors": [
-      {
-        "hex_value": "#CAAB54",
-        "colour_name": "001 Precious Rocks"
-      }
-    ]
-  },
-  {
-    "id": 721,
-    "brand": "dior",
-    "name": "\n                            Amethyst\n                            ",
-    "price": "20.5",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/214/90/0/packshots%252FPDG_Y0002986_F000298998.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/look-exclusives/precious-rocks-collection/pr-preciousrockslook-y0002986_f000298998-couture-colour-gel-shine-long-wear.html",
-    "website_link": "https://www.dior.com",
-    "description": "The sparkling, vibrant tones of Diorific Vernis nail polishes are modeled after precious stones.",
-    "rating": null,
-    "category": null,
-    "product_type": "nail_polish",
-    "tag_list": [
-      
-    ],
-    "created_at": "2017-12-03T23:23:18.553Z",
-    "updated_at": "2017-12-23T20:58:58.443Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/721.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/721/original/data?1514062738",
-    "product_colors": [
-      {
-        "hex_value": "#BC2D48",
-        "colour_name": "673 Ruby"
-      },
-      {
-        "hex_value": "#970530",
-        "colour_name": "745 Grenat"
-      },
-      {
-        "hex_value": "#006D66",
-        "colour_name": "809 Emerald"
-      },
-      {
-        "hex_value": "#511B38",
-        "colour_name": "998 Amethyst"
-      }
-    ]
-  },
-  {
-    "id": 720,
-    "brand": "dior",
-    "name": "\n                            Emerald\n                            ",
-    "price": "20.5",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/214/90/0/packshots%252FPDG_Y0002986_F000298809.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/look-exclusives/precious-rocks-collection/pr-preciousrockslook-y0002986_f000298809-couture-colour-gel-shine-long-wear.html",
-    "website_link": "https://www.dior.com",
-    "description": "The sparkling, vibrant tones of Diorific Vernis nail polishes are modeled after precious stones.",
-    "rating": null,
-    "category": null,
-    "product_type": "nail_polish",
-    "tag_list": [
-      
-    ],
-    "created_at": "2017-12-03T23:23:17.565Z",
-    "updated_at": "2017-12-23T20:58:58.230Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/720.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/720/original/data?1514062738",
-    "product_colors": [
-      {
-        "hex_value": "#BC2D48",
-        "colour_name": "673 Ruby"
-      },
-      {
-        "hex_value": "#970530",
-        "colour_name": "745 Grenat"
-      },
-      {
-        "hex_value": "#006D66",
-        "colour_name": "809 Emerald"
-      },
-      {
-        "hex_value": "#511B38",
-        "colour_name": "998 Amethyst"
-      }
-    ]
-  },
-  {
-    "id": 719,
-    "brand": "dior",
-    "name": "\n                            Grenat\n                            ",
-    "price": "3.0",
-    "price_sign": "£",
-    "currency": "GBP",
-    "image_link": "https://www.dior.com/beauty/version-5.1432748111912/resize-image/ep/0/214/90/0/packshots%252FPDG_Y0002986_F000298745.jpg",
-    "product_link": "https://www.dior.com/beauty/en_gb/fragrance-beauty/makeup/look-exclusives/precious-rocks-collection/pr-preciousrockslook-y0002986_f000298745-couture-colour-gel-shine-long-wear.html",
-    "website_link": "https://www.dior.com",
-    "description": "The sparkling, vibrant tones of Diorific Vernis nail polishes are modeled after precious stones.",
-    "rating": null,
-    "category": null,
-    "product_type": "nail_polish",
-    "tag_list": [
-      
-    ],
-    "created_at": "2017-12-03T23:23:16.306Z",
-    "updated_at": "2017-12-23T20:58:57.984Z",
-    "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/719.json",
-    "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/719/original/data?1514062737",
-    "product_colors": [
-      {
-        "hex_value": "#BC2D48",
-        "colour_name": "673 Ruby"
-      },
-      {
-        "hex_value": "#970530",
-        "colour_name": "745 Grenat"
-      },
-      {
-        "hex_value": "#006D66",
-        "colour_name": "809 Emerald"
-      },
-      {
-        "hex_value": "#511B38",
-        "colour_name": "998 Amethyst"
+        "hex_value": "#C5C5C7",
+        "colour_name": "Sterling (Metcallic) "
       }
     ]
   },
@@ -4383,7 +4349,7 @@ export const productsData = [
     "brand": "moov",
     "name": "Moov Cosmetics St. Tropez Collection",
     "price": "14.99",
-    "price_sign": null,
+    "price_sign": '$',
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/f426b2e2e9ff8e01788a0947aad93512_ra,w158,h184_pa,w158,h184.jpg",
     "product_link": "https://well.ca/products/moov-cosmetics-st-tropez-collection_116031.html",
@@ -4418,7 +4384,7 @@ export const productsData = [
     "brand": "anna sui",
     "name": "Anna Sui Nail Colour",
     "price": "15.0",
-    "price_sign": null,
+    "price_sign": '$',
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/eea60b0c4f3b6539c1573415a610230d_ra,w158,h184_pa,w158,h184.jpg",
     "product_link": "https://well.ca/products/anna-sui-nail-colour_115246.html",
@@ -4558,7 +4524,7 @@ export const productsData = [
     "brand": "l'oreal",
     "name": "L'Oreal Infallible Nail Polish in Always a Lady",
     "price": "10.99",
-    "price_sign": null,
+    "price_sign": '$',
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/5c2071e6bcb6457ea57fcf3725e2aa92_ra,w158,h184_pa,w158,h184.jpg",
     "product_link": "https://well.ca/products/loreal-infallible-nail-polish-in_102199.html",
@@ -4583,7 +4549,7 @@ export const productsData = [
     "brand": "moov",
     "name": "Moov Cosmetics Caribbean Wedding Collection",
     "price": "14.99",
-    "price_sign": null,
+    "price_sign": '$',
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/678f91758b7a611d673124f7ad1f00d0_ra,w158,h184_pa,w158,h184.jpg",
     "product_link": "https://well.ca/products/moov-cosmetics-caribbean-wedding_116039.html",
@@ -4626,7 +4592,7 @@ export const productsData = [
     "brand": "l'oreal",
     "name": "L'Oreal Infallible Nail Polish in Iconic Indigo ",
     "price": "10.99",
-    "price_sign": null,
+    "price_sign": '$',
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/23d8770e2765d0ecd6faf613e5817cea_ra,w158,h184_pa,w158,h184.jpg",
     "product_link": "https://well.ca/products/loreal-infallible-nail-polish-in_102187.html",
@@ -4651,7 +4617,7 @@ export const productsData = [
     "brand": "l'oreal",
     "name": "L'Oreal Infallible Nail Polish in Ocean Infini",
     "price": "10.99",
-    "price_sign": null,
+    "price_sign": '$',
     "currency": null,
     "image_link": "https://d3t32hsnjxo7q6.cloudfront.net/i/b90ec1716dfb0c840e32da08d95acc7d_ra,w158,h184_pa,w158,h184.jpg",
     "product_link": "https://well.ca/products/loreal-infallible-nail-polish-in_102191.html",

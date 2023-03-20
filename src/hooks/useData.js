@@ -18,8 +18,8 @@ export const useData = () => {
                 data = productsData.filter( product => product.product_type === PRODUCT_TYPES.EYEBROW);
                 setProducts(data);
                 break;
-            case (PRODUCT_TYPES.EYESHADOW):
-                data = productsData.filter( product => product.product_type === PRODUCT_TYPES.EYESHADOW);
+            case (PRODUCT_TYPES.EYE_SHADOW):
+                data = productsData.filter( product => product.product_type === PRODUCT_TYPES.EYE_SHADOW);
                 setProducts(data);
                 break;
             case (PRODUCT_TYPES.MASCARA):

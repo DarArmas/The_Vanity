@@ -1,13 +1,15 @@
 import { Grid, IconButton } from "@mui/material";
-import Button from "react-bootstrap/Button";
+import Button from '@mui/material/Button'; 
 import Modal from "react-bootstrap/Modal";
 import { ProductsContext } from "../context/productsContext";
 import { useContext } from "react";
 import DeleteIcon from "@mui/icons-material/Delete";
-import { Col, Row } from "react-bootstrap";
+
 import { useEffect, useState } from "react";
 import Swal from "sweetalert2";
 import withReactContent from "sweetalert2-react-content";
+import ReplyAllIcon from '@mui/icons-material/ReplyAll';
+import { width } from "@mui/system";
 
 export const CartModal = (props) => {
   const { cart, removeFromCart, modifyQty } = useContext(ProductsContext);
@@ -37,7 +39,7 @@ export const CartModal = (props) => {
   return (
     <Modal
       {...props}
-      size="lg"
+      size="xl"
       aria-labelledby="contained-modal-title-vcenter"
       centered
     >
@@ -48,20 +50,20 @@ export const CartModal = (props) => {
       </Modal.Header>
       <Modal.Body>
         <div style={{ width: "100%", textAlign: "center" }}>
-          <table style={{ width: "100%", marginBottom: "10px" }}>
+          <table style={{ width: "100%", marginBottom: "10px", tableLayout: "fixed" }}>
             <thead>
               <tr>
-                <th>Producto</th>
-                <th>Precio</th>
-                <th>Cantidad</th>
-                <th>Borrar</th>
+                <th style={{width: "30%"}}>Producto</th>
+                <th style={{width: "10%"}}>Precio</th>
+                <th style={{width: "10%"}}>Cantidad</th>
+                <th style={{width: "10%"}}>Borrar</th>
               </tr>
             </thead>
             <tbody>
               {cart && cart.length > 0 ? (
                 cart.map((item, index) => (
                   <tr key={index}>
-                    <td>
+                    <td width={"50%"}>
                       <div
                         className="d-flex flex-row"
                         style={{ width: "100%", justifyContent: "flex-start" }}
@@ -70,8 +72,9 @@ export const CartModal = (props) => {
                           src={item.image_link}
                           style={{
                             height: "8rem",
-                            width: "12rem",
+                            width: "10rem",
                             overflow: "hidden",
+                            margin: "0rem 2rem"
                           }}
                           className="card-img-top"
                           alt={item.name}
@@ -81,18 +84,27 @@ export const CartModal = (props) => {
                     </td>
                     <td>${item.price * item.qty}</td>
                     <td>
-                      <div className="d-flex flex-row">
-                        <Button
+                      <div className="d-flex flex-row justify-content-between mx-3" style={{gap: "20px"}}>
+                        <Button 
+                          variant="contained"
                           data-type="decrease"
                           onClick={(e) => modifyQty(item.id, e)}
                           disabled={item.qty <= 1}
-                        >
-                          -
+                          color='secondary'
+                          size="small"
+                          >
+                            -
                         </Button>
+                        <div style={{width: "1rem"}}>
                         {item.qty}
+                        </div>
                         <Button
+                          variant="contained"
                           data-type="increase"
                           onClick={(e) => modifyQty(item.id, e)}
+                          color='secondary'
+                          size="small"
+                          sx={{width:'.5rem'}}
                         >
                           +
                         </Button>
@@ -114,13 +126,13 @@ export const CartModal = (props) => {
               )}
             </tbody>
           </table>
-          <Button style={{ width: "85%", margin: "0px auto" }}>
+          <Button style={{ width: "85%", margin: "0px auto", background:'#30246e', fontWeight:'bold'}} variant="contained">
             Total ${totalPrice}
           </Button>
         </div>
       </Modal.Body>
       <Modal.Footer>
-        <Button onClick={props.onHide}>Seguir Comprando</Button>
+        <Button onClick={props.onHide}variant="contained" color='secondary'><ReplyAllIcon/></Button>
       </Modal.Footer>
     </Modal>
   );
