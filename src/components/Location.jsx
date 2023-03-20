@@ -34,9 +34,9 @@ function Map() {
 
 export const Location = () => {
   return (
-    <div className="row">
-      <div className="col-md-8 ">
-        <h2 style={{ color: "#473889" }}>Encuentranos</h2>
+    <div className="row my-3">
+      <div className="col-md-8">
+        <h2 style={{ color: "#473889", marginBottom: "1.5rem" }}>Encuentranos</h2>
 
         <Map />
       </div>
