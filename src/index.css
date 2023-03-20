@@ -84,38 +84,6 @@ td div button{
 margin: 0px 15px 0px 15px;
 }
 
-.card{
-  height: 46rem;
-  padding: 0.5rem;
-  border-radius: 30px;
-}
-.card img{
-  height: 22rem;
-  border-radius: 30px;
-  margin-bottom: 0.5rem;
-}
-.card-body{
-  align-items: start;
-  background-color: #eee7f6;
-  border-radius: 30px;
-  color: #473889;
-}
-
-.card-body p{
-  font-size: 1rem;
-  margin-left: 2rem;
-  height: 1rem;
-}
-
-.card-body h5{
-  font-size:1.5rem;
-  margin-left: .5rem;
-}
-
-.card-body svg:hover{
-  stroke: #fff;
-  fill: #473889
-}
 
  .slick-slide {
   margin: 0 27px;
@@ -141,4 +109,13 @@ margin: 0px 15px 0px 15px;
 
 .btn-cart{
   background-color: #473889;
+}
+
+footer {
+  background-color: lightgray;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 8px;
+  text-align: center;
 }

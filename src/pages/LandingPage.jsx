@@ -1,7 +1,7 @@
-import { useEffect, useContext } from 'react';
-import { PRODUCT_TYPES } from '../utils/constants';
+import { useContext } from 'react';
 import { ProductsContext } from '../context/productsContext';
 import { TableProducts } from '../components/TableProducts';
+import { Location } from '../components/Location';
 
 export const LandingPage = () => {
     const { products, productsByType } = useContext(ProductsContext);
@@ -9,6 +9,7 @@ export const LandingPage = () => {
   return (
     <>
         <TableProducts/>
+        <Location/>
     </>
   )
 }
