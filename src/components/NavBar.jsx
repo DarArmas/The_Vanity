@@ -11,7 +11,7 @@ export const NavBar = () => {
   return (
     <nav className="navbar bg-body-tertiary">
       <div className="container-fluid">
-        <a className="navbar-brand">Navbar</a>
+        <a className="navbar-brand">The Vanity</a>
         <form className="d-flex" role="search">
           <input
             className="form-control me-2"
